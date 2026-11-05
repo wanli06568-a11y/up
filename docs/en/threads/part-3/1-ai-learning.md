@@ -1,446 +1,280 @@
-# Learning Anything with AI (June 2026 Edition)
-
-中文: <a href="#/threads/part-3/1-ai-learning">使用 AI 学习一切</a>
-
-> This chapter is based on official sources available around `2026-06-29`. AI products change quickly. Feature names, availability, regional access, and plan limits may keep changing, so always check official sources for important study, work, exam, or business decisions.
-
-A few years ago, using AI for learning mostly meant asking a question and getting an answer.
-
-That is no longer the highest-leverage use.
-
-> **Use AI as a learning system, not as an answer machine.**
-
-A useful AI learning system should help you do seven things:
-
-1. define the goal: what exactly you want to be able to do;
-2. organize materials: books, articles, documents, videos, notes, code, and real cases;
-3. explain step by step: break down hard ideas instead of dumping conclusions;
-4. force output: make you retell, solve, write, code, present, or build;
-5. correct mistakes: identify the highest-impact issues and make you try again;
-6. review over time: turn knowledge into quizzes, cards, checklists, and retrospectives;
-7. ship projects: produce real artifacts instead of stopping at “I understand.”
-
-English learning is only one use case. Programming, writing, exams, industry research, product planning, sales training, management practice, agriculture, operations, and creator work can all use the same underlying loop.
-
+---
+title: "Learning Anything with AI: From Real Problems to Verifiable Delivery"
+description: Based on Han Xiankai's product failure, recovery, and return to AI practice, this chapter builds a practical loop of problems, baselines, practice, delivery, verification, and review.
+updated: 2026-10-15
+sources_checked: 2026-10-15
+source_review_interval: 60
 ---
 
-## 1. Turn “I Want to Learn” Into a Trainable Goal
+# Learning Anything with AI: From Real Problems to Verifiable Delivery
 
-Do not start with:
+My name is Han Xiankai, also known online as Li Pu. Many readers first met me through English learning, then through stories about software, restaurants, a failed company, disrupted health, and a return to technology and AI. I now treat AI as learning infrastructure, not a button that thinks on my behalf.
 
-> I want to learn programming. What should I do?
+The method comes from an uncomfortable fact: an answer can be complete while a product has no users; code can run while its data and security have no foundation; a person can sound clever in a chat and still be unable to perform alone after the chat closes. A real learning result survives without AI: you can explain, judge, perform, transfer, and leave evidence another person can inspect.
 
-That question is too broad. AI will usually return a correct but generic list.
+For repeatable AI-assisted tasks, continue to [AI Workflows](../practice/ai-workflows.md). Before comparing versions or delivering to others, use an [AI Evaluation Record](../../templates/ai-evaluation.md) to retain failures, human revisions, and costs.
 
-Start by defining four things:
+When new tools compete for attention, start with [AI Trends and a Learning Roadmap](6-ai-trends-and-learning-roadmap.md). Separate observed capability, vendor statements, and your own predictions before choosing one change to test. You do not need to follow every release; you need to develop criteria for choosing.
 
-1. **Outcome**: what you will produce;
-2. **Context**: where you will use the skill;
-3. **Time**: how many weeks and hours you can invest;
-4. **Evidence**: what artifact or performance proves you learned it.
+## Quick Overview
 
-Example:
+- define the real outcome before deciding where AI enters;
+- compare an unaided baseline, an assisted version, and a delayed independent retest;
+- put sources, permissions, privacy, cost, and ownership into the task boundary;
+- save state at the end so the next session does not depend on chat memory.
 
-> I want to learn Python in 8 weeks. My goal is not to memorize syntax, but to build a small tool that cleans Excel files and generates reports.  
-> I can study 5 hours per week. Please design weekly tasks. Each week must end with a runnable mini-project and clear acceptance criteria.
+## Where the Method Comes From
 
-Or:
+The following are personal records, not research findings or a universal promise. Read each case in four steps: what happened, which judgment failed, what principle followed, and what you can practise today.
 
-> I want to learn industry research. In 4 weeks, I want to write a 10-page report about one industry. Please design a learning path covering source collection, conceptual framework, case analysis, data verification, report outline, and final presentation.
+If you are analysing a public profile, an AI project experience, or your own failure record, copy the [AI Case Review Template](../../templates/ai-case-review.md) first. Separate source, facts, judgment, outcome, and transferable principle. The template cannot prove an outcome for you, but it can stop a narrative from quietly becoming a conclusion.
 
-Real learning starts when you stop collecting resources and begin moving toward evidence of ability.
+### 2015–2016: From a Dead End to Real Users
 
----
+After setbacks around an internship and graduation, I returned home. In 2016 I started `bt0.com`, a small movie website, and later accepted web-design work. It was not a grand product, but it had real users, feedback, and traces of use.
 
-## 2. How to Split the Tools
+The easy mistake was to treat “I can build it” as “people need it”. What changed my judgment was not another technology lesson. It was seeing people use, review, and leave because of a detail.
 
-Do not waste energy arguing which AI tool is the single best one.
+**Principle**: learning starts with a real problem; work exposes gaps better than collected answers.
 
-Split them by job.
+**Try today**: choose a problem someone near you actually has. Without AI, write one page naming the audience, action, completion standard, and three things you do not know.
 
-### Gemini: learning workflows
+### 2017–2022: From Front-end Refactoring to Organisational Constraints
 
-Gemini's current learning tools, quizzes, flashcards, study guides, Canvas, Gems, and Gemini Live make it useful for turning materials into lessons, lessons into review, and review into output.
+In 2017 I joined a software company serving lawyers and law firms. I moved from front-end developer to team leader, general manager, and partner. The early product came from outsourcing and changing requirements; I later led a Vue rewrite, but the released product went a long time without a sale.
 
-Use it for:
+The lesson was that effort, refactoring, and feature count cannot replace problem discovery, user validation, and team coordination. One person learning to code does not mean an organisation has learned to deliver.
 
-- turning articles, videos, notes, and documents into study guides;
-- generating quizzes, flashcards, and staged practice;
-- editing writing, plans, scripts, and talks in Canvas;
-- creating a reusable learning coach with Gems;
-- using Live for spoken explanation, Q&A, rehearsal, and retelling.
+**Principle**: write learning as a real task, not “understand a topic”; every step needs an audience and acceptance standard.
 
-Prompt:
+**Try today**: replace “learn product management” with “write a one-page brief for a real user in 45 minutes and let that user reject one assumption”.
 
-> You are my AI learning coach. Turn this material into a 30-minute lesson. Ask me 3 preview questions first, then explain it in 4 sections. After each section, give me 2 comprehension checks. At the end, ask me to explain the core idea in my own words.
+### 2022: Mistaking Search and Presets for AI
 
-### ChatGPT: step-by-step learning and project memory
+Sales fell sharply in 2022. When my high-school desk mate joined, we discovered an old project structure, performance and security problems, and “big data” and “AI” features without a real dataset or training foundation. Some features were essentially search and preset results.
 
-OpenAI's `Study mode` is designed around questions, layered explanations, understanding checks, and active participation. `Projects` are useful for keeping long-term learning files, instructions, and context in one place.
+We had spent too much effort on UI, multi-platform support, and feature accumulation before confirming that the core capability and data existed. The company eventually closed. Better demonstrations could not erase the loss or the responsibility.
 
-Use it for:
+**Principle**: a demo is not a capability, a model answer is not a fact, and generation speed is not delivery quality. Important claims must return to sources, tests, users, and an accountable person.
 
-- learning abstract concepts;
-- working through problems or cases;
-- turning PDFs, images, and notes into learning tasks;
-- keeping mistakes, materials, exercises, and artifacts inside a long-running Project.
+**Try today**: ask AI to explain a familiar topic. Then, without the chat, write its sources, a counterexample, an unknown, and one test that could disprove it. What you cannot write is a learning gap.
 
-Prompt:
+### 2023: Recovering the Ability to Act
 
-> Teach me this concept in a Study Mode style. Do not give the final answer immediately. First ask what I already understand, then explain with a simple example, then give me a small exercise and correct my response.
+After the company failed, I closed GitHub, left many groups, played games, and lost the boundaries of daily life. Returning home, the first step was not founding another company. It was eating, sleeping, going outside, facing the past, and reducing tasks to a scale I could complete.
 
-### Claude: long documents, writing, and large material sets
+**Principle**: a learning system must include energy, health, and ordinary responsibilities. Consistency beats short bursts, and a difficult season should not be judged by a dramatic reversal.
 
-Claude Projects and project knowledge are useful for working with batches of longer materials. RAG for projects helps project knowledge be retrieved and used at larger scale. Claude is especially strong for long reading, writing feedback, style consistency, and complex material organization.
+**Try today**: reserve 5–15 minutes for one saved action: organise a page, run a test, listen to a clip, or write three sentences. Record what happened instead of hiding in a plan.
 
-Use it for:
+### 2026: Returning to AI and Physical Industries
 
-- reading long reports, papers, and documentation;
-- comparing arguments across several sources;
-- improving essays, resumes, proposals, and plans;
-- maintaining a long-term writing or research project.
+In 2026, as chairman of China Token Cloud Computing Co., Ltd., I returned to technology, enterprise services, and physical-industry practice. I am exploring AI for agriculture, forestry, animal husbandry, fisheries, and other real settings, and plan to offer basic training for rural cooperatives. This is a direction and a personal plan, not proof of revenue, customer count, or impact.
 
-Prompt:
+**Principle**: AI must eventually enter a real workflow and accept constraints around cost, permissions, privacy, user feedback, failure, and rollback.
 
-> I will upload 5 industry sources. Do not write the report yet. First build a concept table: key terms, major players, main disputes, data definitions, and questionable claims. For every point, say which source it comes from.
+**Try today**: for one organisational problem, write where data enters, who can see it, what passes acceptance, how work stops when it fails, and which human responsibility you will own.
 
-### NotebookLM: source-grounded study
+## The Seven-step Loop
 
-NotebookLM is most useful when learning from sources you provide or collect. It can help turn materials into Q&A, summaries, study guides, flashcards, quizzes, and audio overviews.
+1. **Define a real outcome**: situation, audience, action, deadline, and acceptance criteria.
+2. **Save an unaided baseline**: attempt the task first and expose gaps and blind spots.
+3. **Prepare trustworthy material**: prefer official documents, books, papers, data, code, and real cases.
+4. **Design guided practice**: ask AI to question, explain, compare, hint, and create parallel tasks without doing the critical step.
+5. **Produce actively**: close the material and explain, code, write, calculate, demonstrate, or decide.
+6. **Use plural feedback**: sources, tests, experts, users, and security review join AI in judging the result.
+7. **Update state**: save work, errors, cost, open questions, and the smallest next task.
 
-Use it for:
+Without step one, AI turns a wish into an answer. Without step two, you cannot see growth. Without steps six and seven, errors return in the next conversation.
 
-- studying lecture notes, book excerpts, papers, and industry reports;
-- asking questions within a fixed set of sources;
-- reducing unsupported speculation;
-- preparing material before using another AI tool for practice or output.
+## Learn AI Through Five Layers
 
-Prompt:
+Learning with AI and learning to build AI applications can support each other, but call for different practice. The first protects your own recall, understanding, and expression. The second also asks how data enters a system, how tools act, and how outcomes are checked. Use these layers to locate a problem before deciding to train a model.
 
-> Answer only from the sources I provided. Where do these materials agree, where do they disagree, and what still needs external verification?
+| Layer | Explain in your own words | Practice that leaves evidence |
+| --- | --- | --- |
+| Model and output | Answers depend on inputs and generation; fluency does not establish truth | Find a wrong answer in a familiar subject and retain counterevidence |
+| Context and retrieval | Context is material supplied for the current task; retrieval finds relevant material to supply | Answer questions from three public documents, linking each claim to a passage |
+| Structure and tools | Valid fields do not establish factual accuracy; a requested tool call does not prove execution | Check missing fields, incorrect numbers, and tool failure |
+| Workflow and evaluation | Steps, permissions, failure handling, and acceptance together determine usefulness | Compare manual and AI workflows, keeping failures and total time |
+| Learning and transfer | Assisted output quality and independent ability require separate measures | Change one condition and retry after three to seven days without the old answer |
 
-### Perplexity: web research and source discovery
+Retrieval-augmented generation (RAG) typically supplies retrieved material before an answer; fine-tuning changes model parameters through training. They address different problems. For stale information, missing sources, or the wrong search scope, investigate materials and retrieval first. Fine-tuning does not automatically provide current facts, authentic citations, or permission to act. Locate the failure before choosing a technique.
 
-Perplexity Spaces are research workspaces with custom instructions, web search, and file organization. Perplexity is better for finding materials, following current information, and building sourced reading input than for being your main training coach.
+See [IBM's explanation of RAG and fine-tuning](https://www.ibm.com/think/topics/rag-vs-fine-tuning) for the conceptual distinction (published 14 August 2024; checked 15 October 2026). The exercises and troubleshooting sequence above are this guide's teaching choices, not a learning-outcome guarantee from that source.
 
-Use it for:
+Readers who do not code can still complete these exercises: manage materials in folders, record comparisons in a table, and ask a real reader to check the result. When moving into development, learn APIs, structured outputs, tool calls, and tests one at a time, attaching each concept to a problem you have already encountered.
 
-- finding recent materials on a topic;
-- comparing multiple viewpoints;
-- building reading lists;
-- starting industry research, paper topics, or product discovery.
+## One-page Task Brief
 
-Prompt:
+Copy the complete [AI Task Brief](../../templates/ai-task-brief.md) into a private project directory. The block below keeps only the minimum fields. Redact sensitive material; never send passwords, identity documents, customer records, or third-party private data to a general model.
 
-> Find authoritative 2025-2026 sources about AI's impact on workplace skills. Prioritize official institutions, research reports, and primary sources. Rank them by reliability and explain what each source is useful for.
+```markdown
+# AI Task Brief
 
-### DeepL Write: final language polish
+Real situation:
+User/audience:
+Decision or action to complete:
+Deadline:
 
-DeepL Write is best near the end of a writing process, when you want to improve wording, tone, clarity, and naturalness.
+Known facts and sources:
+Files allowed:
+Data sensitivity: public / internal / confidential / restricted
+Material deliberately withheld:
 
-Use it for:
+Final deliverable:
+Format and length:
+Acceptance criteria:
+Items a person must confirm:
 
-- English email;
-- applications;
-- resumes and LinkedIn copy;
-- external posts, explanations, and report summaries.
+AI may:
+AI may not:
+Human reviewer:
+Rollback or stop condition:
+```
 
-It should not replace your thinking, structure, or practice. Write first, polish later.
+“Good experience”, “advanced architecture”, and “learn AI” are not acceptance criteria. Use observable actions, such as “a user can import a file in ten minutes and receive an explainable error report”.
 
----
+## A Minimal Session Protocol
 
-## 3. The Universal AI Learning Loop
+Before starting, ask AI only to restate the boundary:
 
-Whatever you are learning, start with this seven-step loop.
+```text
+Restate in no more than eight bullets: goal, audience, inputs, acceptance criteria, constraints, unknowns, and what you cannot verify.
+List the sources you intend to use. Mark source-free facts as unverified.
+Do not produce the final deliverable. Identify the three risks most likely to cause rework.
+```
 
-### Step 1: Bring real material
+During the work, advance one inspectable slice:
 
-Give AI concrete material instead of asking it to lecture from nowhere.
+```text
+Break the task into the smallest verifiable slices. Advance one slice at a time and state input, assumption, change, check, and next step.
+If a prerequisite conflicts, pause and ask. Do not silently replace the requirement. Keep failed approaches and reasons.
+```
 
-Useful materials include:
+At the end, create a state update instead of a polished essay:
 
-- a book chapter;
-- a paper or report;
-- a course transcript;
-- code;
-- a work document;
-- exam questions;
-- a real business problem.
+```text
+Based only on what happened in this session, output:
+1. completed work and evidence location;
+2. judgments confirmed by a source, test, or person;
+3. recurring errors, risks, and open questions;
+4. the smallest next task, acceptance criteria, and required material.
+Do not claim to remember another session or turn inference into fact.
+```
 
-Prompt:
+## Different Outputs Need Different Evidence
 
-> Read this material first. Do not summarize yet. Tell me what problem it helps solve, what it does not cover, and what prerequisites I need.
+| Output | Minimum evidence | Stronger evidence |
+| --- | --- | --- |
+| Explanation | Primary source, key terms, uncertainty | Closed-book restatement, counterexample, transfer task |
+| Code | Run result, basic tests | Boundary tests, static checks, security review, real samples |
+| Research | Primary link for material facts | Cross-source verification, definitions, dates, counterexamples |
+| Prose | Audience, purpose, facts, structure | Real-reader feedback, revision record, version comparison |
+| Decision | Options, assumptions, cost, risks | Small experiment, decision log, after-action review |
+| Teaching | Goal and practice result | Independent transfer, delayed retest, changing errors |
 
-### Step 2: Use active recall
+For high-risk content, “not yet confirmed” is more professional than a fluent guess.
 
-Do not let AI explain everything first. Let it test you.
+## Three Comparisons: Prove What AI Changed
 
-Prompt:
+Use the [AI Learning Log](../../templates/ai-learning-log.md) to keep three samples of the same task:
 
-> Before explaining, ask me 5 questions to check my current understanding. Based on my answers, decide what I need to learn first.
+1. **Unaided baseline**: complete it independently and record time, quality, bottlenecks, and confidence;
+2. **Assisted version**: let AI do only the agreed work and record prompts, sources, accepted/rejected suggestions, and rework;
+3. **Delayed independent version**: after 3–7 days, close the chat and answer key, then repeat under a related condition.
 
-Active recall is harder than passive reading, but it helps knowledge stick.
+| Comparison result | Cautious interpretation |
+| --- | --- |
+| Assisted and independent versions both improve | AI may have supplied useful scaffolding that remained yours |
+| Assisted improves while independent regresses | The product improved, but a critical step may have been outsourced |
+| Time falls while rework and errors rise | You gained speed and accumulated “speed debt” |
+| Confidence rises while accuracy is flat or lower | Calibrate confidence before granting the tool more access |
 
-### Step 3: Ask for layered explanation
+Record task completion, quality, independent performance, rework, cost, and transfer. One comparison cannot prove causation, but it is more inspectable than “AI feels useful”.
 
-Ask for levels, not a giant answer.
+## Common Failures and Handover
 
-Prompt:
+| Failure point | Signal | Immediate action |
+| --- | --- | --- |
+| Fabricated fact | No source, version, or data location can be found | Stop sharing; return to a primary source and mark it unverified |
+| Requirement drift | The answer grows complete but stops answering the original task | Paste the brief again and ask for conflicts and unknowns |
+| Privacy leak | Input contains customer, identity, health, or key material | Stop upload; redact or use an approved environment |
+| False completion | Code runs without boundary tests, or prose reads well without citations | Run the smallest acceptance test; fluency is not completion |
+| Session dependency | You cannot explain the next step outside the chat | Save it in the [AI Learning Log](../../templates/ai-learning-log.md) and [Learning State](../../templates/learning-state.md) |
 
-> Explain this concept in 4 layers: one-sentence explanation, everyday analogy, professional definition, and real example. After each layer, ask me one check question.
+At handover, save the current goal, completed work and evidence location, unconfirmed facts, errors and risks, cost, smallest next task, and stop/rollback condition. A chat window is a temporary workspace, not the project’s only archive.
 
-### Step 4: Produce something
+## From Learning to Delivery
 
-Without output, learning easily becomes an illusion.
+When a task becomes code or a team project, add three gates:
 
-Output can be:
+- **Explainable**: the owner can explain important decisions without the chat;
+- **Testable**: real inputs, edge cases, permissions, and failure paths are checked;
+- **Reversible**: someone knows who pauses, who is notified, and how to recover from risk or outage.
 
-- a summary;
-- a solved problem;
-- a small program;
-- one slide;
-- a process design;
-- a short recording;
-- an explanation to someone else.
+Use a portable directory:
 
-Prompt:
+```text
+00-brief/       task brief and acceptance criteria
+01-baseline/    unaided sample and initial tests
+02-sources/     primary material, licences, source index
+03-working/     drafts, experiments, prompts
+04-output/      deliverable, recording, build artefact
+05-feedback/    user feedback and error categories
+06-decisions/   decision log and open questions
+07-operations/  permissions, monitoring, deployment, rollback
+learning-state.md
+```
 
-> Stop explaining now. Give me a task I can finish in 30 minutes to prove I understand this concept. After I finish, evaluate it for clarity, accuracy, and transferability.
+## Data, Privacy, and Copyright
 
-### Step 5: Get focused correction
+| Level | Examples | Default handling |
+| --- | --- | --- |
+| Public | Published documents, public code, public data | Check source and licence before use |
+| Internal | Unpublished plans, processes, non-sensitive logs | Approved tools only; limit members and retention |
+| Confidential | Customer records, contracts, commercial strategy, unpublished vulnerabilities | No upload without approval; prefer local work or redaction |
+| Restricted | Keys, identity/health data, children's data, third-party private material | Keep out of general models; follow policy and law |
 
-Ask AI to correct less, but correct what matters.
+Deleting a file does not delete history, shared links, exports, caches, or backups. Public articles can contain personal data too; confirm permission, minimum necessary scope, and retention before processing them.
 
-Prompt:
+## Seven Days, Thirty Days, Twelve Weeks
 
-> Point out only the 3 issues that most affect quality. For each issue, explain why it matters, suggest a fix, and give me a small exercise to redo immediately.
+### Seven days: one reproducible micro-delivery
 
-### Step 6: Review over time
+- write the brief and acceptance criteria;
+- save an unaided baseline;
+- complete a one-to-three-hour deliverable with the loop;
+- save sources, prompts, tests, feedback, and state;
+- record where AI helped, misled, and what remains without it.
 
-Feeling clear today does not mean you can use it three days later.
+### Thirty days: one repeatable workflow
 
-Prompt:
+- complete four loops for a recurring task;
+- compare time, quality, rework, cost, and independent performance;
+- remove steps that do not improve the result;
+- conduct a failure retrospective, not only a success demo.
 
-> Turn today's learning into 10 review cards, 5 application questions, and a one-week review checklist. Mix concept checks, practical application, and common mistakes.
+### Twelve weeks: delivery to a real user or organisation
 
-### Step 7: Ship a project
+- obtain real-audience feedback every two to four weeks;
+- complete fact, test, security, privacy, copyright, cost, and handover review;
+- export the material and state, then write a retrospective and next-cycle decision;
+- if evidence is weak, narrow the problem, change the audience, or stop instead of adding prompts.
 
-Always return to an artifact.
+Put the three comparisons and cycle result into the [90-Day Cycle Map](../../templates/90-day-cycle.md), changing one variable in the next cycle.
 
-Prompt:
+## Sources and Verification
 
-> Turn this learning topic into a 2-week project. It must have a final deliverable, milestones, acceptance criteria, and reflection questions. Do not make it only a reading plan.
+- **Personal experience**: mainly [My Story](../part-2/my-story.md), [Entrepreneurship](../part-2/entrepreneurship.md), and [Author Projects and Practice](../../projects.md). These are personal records, not universal rules.
+- **Product information**: official help pages listed in [Learning English with AI](../part-1/7-ai.md); features, regions, and plans change.
+- **Project status**: China Token Cloud, `token.love`, public articles, and physical-industry plans carry affiliations or unverified scope; none is an independent review or proof of revenue.
+- **Last checked**: 15 October 2026. Recheck product features and project status before actual use; the new AI concept sources are linked in the chapter and attribution register.
 
-Once you have a deliverable, learning changes from “I consumed a lot” to “I built something.”
+## Closing: Keep the Ability with the Person
 
----
+AI readily creates more than wrong answers. It creates a premature sense of completion. The explanation is fluent, the code runs, the plan is arranged, and we begin to believe the problem has been understood. Answers can arrive much faster than judgment forms.
 
-## 4. Five High-Value Templates
+Learning worth continuing should leave something the conversation cannot carry away: a more accurate question, a traceable source, a failed test, a judgment changed by evidence, an artifact another person can use, and a person who still knows what to do after the tool closes.
 
-### 4.1 Programming: build tools, not syntax lists
-
-Do not ask AI for a long syntax syllabus. Ask it to help you build a small project.
-
-Prompt:
-
-> I want to learn JavaScript, but my goal is to build a small web tool. Design a 4-week plan: one runnable project per week, introducing only the syntax needed for that project. At the end of each week, review my code and identify my top 3 issues.
-
-Practice loop:
-
-- let AI explain the minimum concept;
-- write the first version yourself;
-- ask AI for code review;
-- revise it yourself;
-- add one small feature to transfer the knowledge.
-
-### 4.2 Writing: train judgment, not outsourcing
-
-The danger in writing is outsourcing thought.
-
-Prompt:
-
-> I will write the first draft myself. Do not rewrite it immediately. Diagnose the draft: clarity of thesis, structure, strength of examples, and unnecessary wording. Give only the 5 most important suggestions, then ask me to write a second draft.
-
-Practice loop:
-
-- write the first draft yourself;
-- let AI diagnose only;
-- revise it yourself;
-- compare with a stronger version later;
-- save reusable structures and expressions.
-
-### 4.3 Exams and certificates: build an error system
-
-Exam preparation is mostly about understanding why you get things wrong.
-
-Prompt:
-
-> I will upload a set of wrong answers. Do not just give correct answers. Classify each error as concept gap, reading mistake, calculation/detail error, transfer failure, or time-management issue. Then design a one-week review plan.
-
-Practice loop:
-
-- classify mistakes;
-- practice similar questions;
-- let AI create variations;
-- simulate under time pressure;
-- track whether error types decrease.
-
-### 4.4 Industry research: build judgment, not link piles
-
-Research is not a pile of links. It is a way to build judgment.
-
-Prompt:
-
-> Help me research an industry. First build an analysis framework: market size, demand change, supply structure, policy variables, technology variables, business models, key companies, and risks. For each part, say what data is needed and which conclusions cannot be based only on news.
-
-Practice loop:
-
-- use Perplexity to discover sources;
-- use NotebookLM or Claude to study fixed sources;
-- use ChatGPT or Gemini to unpack concepts and outline;
-- write the report yourself;
-- ask AI to challenge your conclusion as an investor, customer, or manager.
-
-### 4.5 Work output: turn vague thoughts into deliverables
-
-At work, AI is not just for writing emails. It is useful for turning messy thinking into clear output.
-
-Prompt:
-
-> I need to prepare a project update. Ask me 8 clarification questions first: goal, audience, current status, problem, proposal, cost, risk, and next step. Then create an outline. Do not write the full draft immediately.
-
-Practice loop:
-
-- let AI ask questions first;
-- fill in facts yourself;
-- let AI structure the answer;
-- write the first draft yourself;
-- let AI simulate audience pushback;
-- polish language and format at the end.
-
----
-
-## 5. A Minimal Weekly Plan
-
-If you do not know where to start, pick one topic and run this for one week.
-
-### Monday: define the goal
-
-> What will I learn this week, and what will I deliver?
-
-Output: one verifiable goal and a material list.
-
-### Tuesday: study the material
-
-> Let AI break down the material, ask questions, and explain hard parts.
-
-Output: one page of notes and 5 key concepts.
-
-### Wednesday: produce
-
-> Write code, write an essay, solve problems, outline a report, or record an explanation.
-
-Output: first draft or first version.
-
-### Thursday: correct
-
-> Let AI identify the 3 most important issues, then redo the work yourself.
-
-Output: second version and error list.
-
-### Friday: transfer
-
-> Use the same idea in a different context.
-
-Output: one variation exercise or new case.
-
-### Weekend: review
-
-> Summarize what you learned, what you still cannot do, and what comes next.
-
-Output: review cards, next-week plan, and a clearer project goal.
-
-This is plain, but it prevents the most common failure: talking to AI every day while retaining nothing.
-
----
-
-## 6. Boundaries: The Better You Use AI, the More You Must Verify
-
-### 6.1 Do not outsource factual judgment
-
-AI can invent sources, miss context, or mix old and new information. For law, medicine, finance, policy, exams, and business decisions, go back to official sources, primary documents, and qualified professionals.
-
-### 6.2 Protect privacy and confidential data
-
-Resumes, contracts, customer data, company documents, unpublished plans, and student information should be sanitized first. Use summaries when possible. Remove identity details when possible.
-
-### 6.3 Do not let AI produce everything for you
-
-If AI writes, revises, summarizes, and explains everything, you may become better at operating AI without becoming better at thinking. Keep at least one step as your own work: explain, write, solve, build, or teach.
-
-### 6.4 Respect academic integrity and exam rules
-
-Schools, exams, papers, assignments, and hiring tests have their own AI rules. Use AI to understand, practice, and review. Do not submit prohibited AI output as independent work.
-
-### 6.5 Date your sources
-
-AI tools, model capabilities, policies, and industry data keep changing. In notes and reports, date your source base:
-
-> Prepared on 2026-06-29, based on public sources available that day.
-
-That small line reminds you that many conclusions have a time boundary.
-
----
-
-## 7. Official Sources
-
-This chapter is mainly based on official pages and authoritative sources available around `2026-06-29`:
-
-- Gemini:
-  - [Use learning tools in Gemini Apps](https://support.google.com/gemini/answer/16448384)
-  - [Create quizzes, flashcards & more in Gemini Apps](https://support.google.com/gemini/answer/16275879)
-  - [Create docs, apps & more with Canvas](https://support.google.com/gemini/answer/16047321)
-  - [Use Gems in Gemini Apps](https://support.google.com/gemini/answer/15146780)
-  - [Talk naturally with Gemini Live](https://support.google.com/gemini/answer/15274899)
-- ChatGPT:
-  - [ChatGPT Study Mode - FAQ](https://help.openai.com/en/articles/11780217-chatgpt-study-mode-faq)
-  - [Projects in ChatGPT](https://help.openai.com/en/articles/10169521-projects-in-chatgpt)
-- Claude:
-  - [What are projects?](https://support.claude.com/en/articles/9517075-what-are-projects)
-  - [Retrieval augmented generation (RAG) for projects](https://support.claude.com/en/articles/11473015-retrieval-augmented-generation-rag-for-projects)
-  - [Using voice mode](https://support.claude.com/en/articles/11101966-use-voice-mode)
-- NotebookLM, Perplexity, DeepL:
-  - [NotebookLM notebooks](https://support.google.com/notebooklm/answer/16206563?hl=en)
-  - [NotebookLM source-grounded chat](https://support.google.com/notebooklm/answer/16179559?hl=en)
-  - [NotebookLM flashcards and quizzes](https://support.google.com/notebooklm/answer/16958963?hl=en)
-  - [What are Spaces?](https://www.perplexity.ai/help-center/en/articles/10352961-what-are-spaces)
-  - [About DeepL Write](https://support.deepl.com/hc/en-us/articles/6318834492700-About-DeepL-Write)
-- Education and work context:
-  - [UNESCO AI competency framework for students](https://www.unesco.org/en/articles/ai-competency-framework-students)
-  - [UNESCO Guidance for generative AI in education and research](https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research)
-  - [World Economic Forum: The Future of Jobs Report 2025](https://www.weforum.org/publications/the-future-of-jobs-report-2025/)
-
----
-
-## 8. Closing
-
-AI will not automatically make you stronger. It amplifies your learning method.
-
-If you only ask for answers, it will help you get answers faster and forget them faster.
-
-If you turn it into a training system, it can help you read, question, practice, correct, review, and ship.
-
-The important question is not:
-
-> Which model did I use?
-
-The important question is:
-
-> **Did I use AI to build a learning loop that keeps moving me forward?**
-
-That is one of the most valuable abilities ordinary people can develop in the AI era.
-
----
-
-Prev: [Learning English with AI](../part-1/7-ai.md)  
-Next: [Misc](../part-2/x-misc.md)
+Learning is not asking AI to arrive on your behalf. It is using the tool to reach what you could not yet see, then checking the ground yourself. Close the window, explain the work to a real person, complete the next step, and carry the result. If the ability follows you out of the conversation, it has begun to remain.

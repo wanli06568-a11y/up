@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "standard": "EPUB 3.3",
+  "scope": "Main manuscript, glossary, and toolkit; archive and word lists remain online-only.",
+  "outputs": {
+    "zh-CN": {
+      "file": "life-level-up-guide-zh.epub",
+      "language": "zh-CN",
+      "chapters": 81,
+      "images": 20,
+      "bytes": 2781209,
+      "sha256": "377d77739de52339c7b1c6e35102f631a1236ec1f14e6ccce3518a4b91c0323d",
+      "sourceSha256": "ce8ef258e44d10409431b35e67e7b5c0fdf8acbc82c142899ff098d4cfb412ae"
+    },
+    "en-US": {
+      "file": "life-level-up-guide-en.epub",
+      "language": "en-US",
+      "chapters": 81,
+      "images": 20,
+      "bytes": 2748887,
+      "sha256": "36530c74fd204f4b0cb4e9d22abe36a1ceabd27d4af82141f76a83fd1d2ae3bd",
+      "sourceSha256": "f44db0af9dfa1961474a91e93fab8612c06e97d2b939fc3baba7cc4d877c3360"
+    }
+  }
+}

@@ -1,332 +1,244 @@
-# Understanding
-
-Source (中文): <a href="#/threads/part-1/1-understanding">认知篇</a>
-
-This chapter is about mindset. Before you grind vocabulary and drills, it’s worth getting a few things straight—otherwise you’ll work hard, feel miserable, and still get stuck.
-
+---
+title: "Learning Principles: Turn Effort into Verifiable Learning"
+description: Use real tasks, first-version baselines, retrieval, feedback, spacing, recovery, and cross-session state so effort becomes comparable and transferable evidence.
+updated: 2026-10-19
+sources_checked: 2026-09-02
 ---
 
-## TL;DR
+# Learning Principles: Turn Effort into Verifiable Learning
 
-- Get clear on **why you want English** and what you want it for.
-- **Input alone isn’t enough**. You need output: speaking, writing, using the language.
-- Pick a **realistic pace and real scenarios**—don’t trade sleep for “feeling hardworking”.
-- Learn to **notice your emotions** instead of letting guilt drive everything.
-- Build a **safe, immersive English environment**—make it part of daily life.
+Learning is easily mistaken for two things: spending a lot of time or feeling familiar with material. Finishing a video, highlighting a chapter, or understanding an answer can create “I know it” confidence. When the source closes, the cue disappears, and the task changes, another action must answer whether the ability remains.
 
-If English makes you feel guilty, anxious, or stuck in procrastination, this chapter is basically about putting those feelings back where they belong.
+I once confused visible effort with learning. At school I woke at 5:20, skipped midday rest, and read after lights-out. Time increased while performance fell. I interpreted failure as “not pushing hard enough” and added more. Later I could admit that, for me, chronic sleep loss, no error diagnosis, and mechanical hours made an increasingly expensive path that did not improve.
 
----
+That experience does not prove early rising is ineffective or prescribe a schedule. It leaves a question worth retesting: when investment increases, do task performance, error type, retention, and physical capacity improve together? If not, add diagnosis before adding hours.
 
-## Why We Should Learn English Well
+This chapter is the book's general protocol. It does not turn life into a laboratory. It helps you preserve enough evidence within finite energy: define a real delivery, save the unaided first version, use targeted input and retrieval, receive specific feedback, remove cues after a delay, change one condition, and keep the state outside any single conversation.
 
-Let’s start with a boring-but-true fact: **English is everywhere**. The language distribution of Wikipedia content gives you a pretty good hint:
+## Chapter at a Glance
 
-![WebsiteContentLanguages](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WebsiteContentLanguages.svg/2000px-WebsiteContentLanguages.svg.png)
+- Turn “I want to improve” into an audience, action, quality threshold, deadline, and evidence.
+- Separate research findings, personal experience, and hypotheses waiting for a test.
+- Preserve an unpolished first version instead of letting a final product erase the start.
+- Build one learning loop from input, retrieval, output, feedback, and a state record.
+- Classify errors by task impact rather than blaming laziness or vocabulary size.
+- Make feedback change the next action instead of adding notes and advice.
+- Let performance set spacing while protecting sleep, body, and a returnable minimum capacity.
+- Keep goals, samples, errors, and next steps in a state file outside the session.
+- Test transfer under a changed topic, audience, mode, or time limit.
 
-English shows up in almost every corner of life:
+## 1. Define One Real Delivery
 
-- casual chat and day-to-day information
-- books, papers, research, and serious writing
+“Learn English,” “learn programming,” and “communicate better” are too large to choose today's action. Name the conditions in which language or knowledge must work:
 
-Learning English is like getting a larger internet. You’re no longer limited to what gets translated into Chinese.
+| Element | Question | Example |
+| --- | --- | --- |
+| Audience | Who will understand, decide, or act from it? | New colleague, client, teacher, self |
+| Action | What should the person do after reading or hearing? | Retell, reply, run, choose, continue |
+| Input | Which concrete source will you process? | Two-minute audio, API page, email |
+| Quality threshold | What counts as done, and what risk is unacceptable? | State gist and owner; preserve limits |
+| Conditions | What are time, device, background, and permitted tools? | 20 minutes, no captions, dictionary allowed |
+| Evidence | What work, test, or response will remain? | Recording, retelling, run result, reply |
 
-If you work in tech (or anything online), it matters even more:
+Write the goal like this:
 
-- new tools, frameworks, and ideas usually appear **first in English**
-- bad translations can mislead you for years
-- but you also get access to great resources and tools that make learning faster and more fun
+> In 12 weeks, I can deliver a five-minute project update covering context, progress, and risk. Listeners can restate the key points without switching language. I will keep recordings and feedback from weeks 1, 4, 8, and 12.
 
-So yeah—**it’s not just about exams**. It’s about access.
+It guides action better than “move from B1 to B2”. A level describes performance under some conditions; it cannot replace a context, task, deadline, and evidence.
 
----
+## 2. Separate Three Kinds of Claim
 
-## The Learning Pyramid: Why You Need to “Move”
+This guide keeps different evidence in different places:
 
-In 1969, educator Edgar Dale proposed what people often call *The Cone of Learning*. The numbers are debated, but the message is useful: after two weeks, we tend to retain much more when we actively do something with what we learned.
+- **Research evidence** reports observations under specified samples, conditions, and measures; it suggests what to try, not what everyone will achieve.
+- **Personal experience** explains why I chose something; it is a narrative and a clue for your experiment, not a general rule.
+- **Testable hypothesis** is a judgment without enough evidence; turn it into an action, counterexample, or stop condition.
 
-- reading only: ~10%
-- listening only: ~20%
-- pictures: ~30%
-- video/demonstration: ~50%
-- discussion and speaking: ~70%
-- teaching / presenting / doing: ~90%
+When advice omits its population, conditions, outcome, and source, return it to the hypothesis column. Plausibility is not fit for your task.
 
-![Cone of Learning](../../../assets/ConeofLearning-old.png)
+## 3. One Complete Learning Loop
 
-The takeaway is simple:
+For 25-45 minutes, move through six steps:
 
-> Passive input (just watching and listening) is weaker than active participation (speaking, writing, explaining, using).
+1. **Define** the task, audience, conditions, and acceptance standard.
+2. **Attempt** it independently with the minimum permitted help and save the raw sample.
+3. **Diagnose** whether the failure is language, structure, background, strategy, attention, capacity, or device.
+4. **Target input** only at information needed for the current error.
+5. **Produce actively** by retelling, writing, speaking, running, or deciding after closing the source.
+6. **Record feedback and state**: result, help received, unknowns, and one condition to change.
 
-For languages, this is painfully obvious:
+“I watched it” is not a seventh step. The loop ends when you can complete a related action after the tool or source leaves, or can state more accurately why you cannot yet.
 
-- input helps you understand
-- output is what makes it stick and makes it usable
+## 4. A First Version Is a Measure, Not a Verdict
 
-That’s why this guide keeps pushing you to **start output early**.
+The first version need not be attractive, but it must be comparable:
 
----
+```markdown
+Real task and audience:
+Material, version, and source:
+Start/end time:
+Permitted dictionary, captions, search, AI, and human help:
+My acceptance standard:
+First-version location:
+What I completed then:
+What remained uncertain:
+```
 
-## A “Try-Hard” Story That Went Wrong
+Do not replace the first version with a later polished one or call one failed attempt stable ability. It answers: what could I do independently under these conditions?
 
-Most of us grew up in exam mode: brutal schedules, early mornings, late nights. If your score goes up you feel great; if it drops, you feel guilty and panicked. You start to believe learning is supposed to hurt.
+For four English skills, use the [English Diagnostic](../../templates/english-diagnostic.md) for listening, reading, speaking, and writing. Use a skill card when a bottleneck needs finer resolution.
 
-In high school I lived in a high-pressure environment:
+## 5. Diagnose the Error Instead of Judging the Person
 
-- my roommates were ranked No.1, No.2, and No.8 in the whole county
-- the top two were the “genius type”: tiny glasses, curious face, looking like 5th graders
-- to motivate myself, I asked the teacher to move seats so I could sit next to No.1 (No.2 sat in front of me)
+A weak result can come from different layers:
 
-My routine looked like this:
+| Layer | Typical sign | Next question |
+| --- | --- | --- |
+| Language form | Form, sound, grammar, or spelling was not recognised | Which form changed the meaning? |
+| Structure and meaning | Words are known but participants, time, condition, or relation were not parsed | Which relation cannot I explain? |
+| Background and concept | Language is readable but the object or premise is unknown | Which domain fact is missing? |
+| Strategy and tool | The same place is looked up repeatedly or a cue cannot be removed | Which scaffold stays, and when is it removed? |
+| Attention and capacity | Errors cluster later and the body drops sharply | What minimum task is sustainable today? |
+| Environment and device | Sound, network, font, or interface changes the result | Does performance change with another setup? |
 
-- wake up at 5:20, go to the track and start memorizing
-- stay in class during lunch break, then nap for a few minutes before class
-- sprint out for dinner and sprint back to grab a seat in the classroom
-- after evening study, rush to wash up, read in bed, and keep reading with a tiny lamp after lights-out
+“Careless,” “not talented,” and “too little vocabulary” can end diagnosis too early. Preserve the error, choose one changeable condition, and test it. Diagnosis finds the next lever; it does not write a character judgment.
 
-I thought I was “saving every minute”. In reality I was losing—over and over. I kept “adjusting my mindset” and pushing harder, but my grades kept dropping. At one point I fell to around rank 500 and felt hopeless.
+## 6. Retrieval Is Stricter Than Familiarity
 
-I couldn’t understand it:
+Repeated exposure can make material familiar without making it available when needed. Retrieval includes:
 
-**I’m working so hard. Why am I getting worse?**
+- writing a three-sentence summary after closing the source;
+- stating gist, detail, responsibility, and next step after listening;
+- explaining a concept without notes;
+- placing a new chunk in two new situations;
+- reproducing minimum run steps without example code;
+- asking a reader or peer to retell what they actually received.
 
-Meanwhile, my desk mate used his scholarship money to buy a laptop, secretly watched American TV shows in class… and stayed No.1.
+Retrieval need not be so difficult that it only measures frustration, background, or capacity. The useful difficulty exposes a gap while leaving a route to repair. Record completion, cue, time, error, and response rather than “I worked hard”.
 
-Why?
+## 7. Feedback Must Enter the Next Action
 
-Why?
+Feedback is not better in larger quantities. Start with the one to three items that change the task:
 
-Why?
+1. Did the audience understand, decide, or complete the intended action?
+2. Are facts, structure, and responsibility accurate?
+3. Which recurring error deserves repair in the next attempt?
 
-![WHY](../../../assets/why.png)
+Sentence-level feedback should distinguish necessary correction, ambiguity, register choice, acceptable variation, and style preference. Ask for a retelling before discussing whether something sounds natural. A reviewer may reveal a blind spot while also carrying different knowledge and aims; accept, partly accept, reject, or defer with a reason.
 
-Later I realized: I wasn’t “not trying hard enough”. I was making a bunch of very common mistakes.
+If feedback only beautifies an old draft, it is not transfer. Turn it into a condition for a parallel task: change topic, audience, sound, time, or constraint, and change one main variable.
 
----
+## 8. Spacing, Interleaving, and Sleep
 
-## The Real Question: What Are You Learning For?
+Retrieval and distributed practice have substantial support in learning research, but no fixed calendar fits every learner and material. Use same-day, day 1, days 3-7, day 14, and day 30 as reminders, then adjust:
 
-Ask yourself:
+- easy, accurate recall plus new-context use: lengthen the interval or add variation;
+- effortful success: keep a similar interval;
+- repeated failure: reduce material, shorten the interval, or repair prerequisites;
+- recognition without use: add production and cross-mode tasks;
+- sustained physical decline: downgrade, pause, or seek help instead of calling recovery laziness.
 
-- Why am I learning?
-- Is it only for scores and rankings?
-- After I get a good ranking, do I actually feel calmer—or more afraid of losing it?
-- In the longer run, what kind of life do I want?
+Interleave skills when useful, but do not change every variable at once or the cause of change becomes unknowable. Sleep, food, movement, and unassigned time are inputs to memory, attention, and return. Persistent sleep, mood, or physical problems need qualified professional care; this book does not diagnose.
 
-If the whole point of learning is to make your life better, but the way you learn makes you miserable… something’s off.
+## 9. Keep State Outside the Session
 
-Sometimes all you need is a different pace:
+Chats, courses, and apps end. Learning state cannot live only inside them. Use the [Learning State](../../templates/learning-state.md) to keep:
 
-- learn in a lighter way, and your happiness goes up
-- drop the “I must suffer to be worthy” mindset, and you’ll actually last longer
+```markdown
+Current main question:
+What I know with evidence:
+First and latest result:
+Error categories and unresolved risks:
+Tools used and verification boundary:
+Smallest next task:
+One condition to change next:
+How I return within 24 hours after interruption:
+Handover owner and review date:
+```
 
-You don’t need to become a different person. You need a way of learning that you can live with.
+At the next session, read the state and act. Do not ask a model to infer progress from an old chat. A state file is a fact page, not a performance diary.
 
-> A friend who called herself “a hopeless student” once told me this. She loved listening to music with headphones and smiling warmly—something schools often forbid. Her words helped me stop forcing myself with adrenaline and guilt, accept being ordinary, and enjoy life again.
+## 10. AI Is a Scaffold, Not the Result
 
-### Quick exercise: 3 questions for yourself
+AI can question, explain, classify errors, generate counterexamples, simulate a reader, offer parallel tasks, and compare versions. Use an auditable order:
 
-1. If I ignore exams and rankings, what do I want English to give me?
-2. In my ideal life 5 years from now, what role does English play?
-3. What kind of learning do I genuinely enjoy?
+1. Save your task and first version.
+2. Give the model only the minimum material needed for diagnosis.
+3. Ask it to state uncertainty, sources, and possible misjudgments.
+4. Return to primary material, dictionaries, run results, teachers, peers, or real audiences.
+5. Close the tool and perform independently under a changed condition.
+6. Write acceptance, rejection, and the next step into the state file.
 
----
+The model cannot prove facts, carry privacy responsibility, complete an exam that forbids outside help, or decide whether you actually learned. Do not paste customer data, unpublished documents, identity records, medical privacy, or unauthorised third-party content.
 
-## Start With the Scenario: Where Will You Use English?
+## 11. Make Ability Move Across Conditions
 
-Before you dive in, break down your needs. Different scenarios require different priorities.
+Immediate performance describes one condition. Change at least one for transfer:
 
-- **Exam-focused**: Gaokao, CET-4/6, postgraduate exams, TEM-8  
-  Focus: question types, scoring strategy, test-taking skills.
-- **Study abroad**: TOEFL/IELTS/GRE + daily communication  
-  Focus: balanced listening/speaking/reading/writing, academic writing, presentations, class participation.
-- **Non-exam**: work, tech, travel, self-improvement  
-  Focus: domain vocabulary, emails/docs, meetings, real expression.
+| Keep | Change | Observe |
+| --- | --- | --- |
+| Task | Topic | Do structure and strategy still work? |
+| Topic | Audience | Do register, background, and explanation adjust? |
+| Information | Mode | Does listening, reading, speaking, and writing support one another? |
+| Genre | Time | Can the line and limits survive pressure? |
+| Tool | Scaffold | Can work continue after the cue closes? |
 
-Write it down:
+Change one main condition at a time. If everything changes, a lower score cannot tell you whether difficulty, background, or method caused it. Transfer does not require identical tasks; it requires the core action to remain callable.
 
-> My main scenario is: ________  
-> The most urgent skill for me is: Listening / Speaking / Reading / Writing / Exam (pick 1–2)
+## 12. Seven Days, Thirty Days, Twelve Weeks
 
-Once you have that, choosing materials and planning time becomes much easier.
+### Seven days: let a first version appear
 
----
+- complete a first version of one real task;
+- run three complete learning loops;
+- classify one recurring error;
+- remove the latest cue and perform a related task on day seven;
+- choose only one condition to change next week.
 
-## “Waking Up Early” Can Ruin Your Whole Day
+### Thirty days: make rhythm sustainable
 
-To squeeze in 30 minutes of morning memorization, I paid for it like this:
+- preserve one comparable output each week;
+- alternate an old task with a parallel task;
+- delete activities that create familiarity without use;
+- record sleep, capacity, time, and real response;
+- repeat under similar conditions on day thirty and state what cannot be inferred.
 
-- I was half-asleep in morning classes, so my classroom time got wasted
-- I slept at 12:30–1:00 and woke up after 5:00—my body never recovered
-- I “stole time” from the only place that mattered: actual class time
+### Twelve weeks: let ability enter life
 
-Result:
+- preserve parallel samples in weeks 1, 4, 8, and 12;
+- add an unfamiliar topic, real audience, or time pressure midway;
+- complete a meeting, exam simulation, documentation check, email delivery, or public artifact;
+- let the result decide whether to continue, downgrade, change a variable, or stop.
 
-- I couldn’t listen properly, and I couldn’t even enjoy a good nap
-- it looked hardcore, but the learning quality dropped hard
+## 13. One-page General Diagnostic
 
-> Don’t steal from sleep.  
-> Otherwise you won’t become “a great person”—you’ll just become a wreck.
+For a complete diagnostic:
 
-Back then my desk mate and I had another hobby: reading good essays.
+1. choose one real topic and four tasks;
+2. record conditions and complete listening, reading, speaking, and writing first versions;
+3. name one task-critical error per skill;
+4. choose one evidence card and one targeted repair per skill;
+5. complete a parallel task on day seven and repeat one real delivery on day thirty;
+6. state what changed, what did not, and what remains unsupported.
 
-We pooled money and bought an mp3 player that could display `.txt` files. Each night one of us would read an essay aloud, and we’d fall asleep mid-discussion.
+Do not average four scores into a personality judgment. Someone with B2 reading and A2 speaking does not need one “true level” first; they need the next task and evidence card that fit each component.
 
-That kind of learning was fun, didn’t break our bodies, and honestly worked better.
+## Sources and Boundaries
 
----
+- [Dunlosky et al. (2013), Improving Students' Learning With Effective Learning Techniques](https://doi.org/10.1177/1529100612453266): reviews ten techniques and their generalisability across learning conditions, learners, materials, and criterion tasks; practice testing and distributed practice receive high-utility assessments, while rereading and highlighting are more conditional.
+- [Roediger & Karpicke (2006), Test-Enhanced Learning](https://doi.org/10.1111/j.1467-9280.2006.01693.x): compares testing with repeated study using prose materials and reports delayed-retention differences; sample, material, and measure do not guarantee every task.
+- [Cepeda et al. (2006), Distributed Practice in Verbal Recall Tasks](https://doi.org/10.1037/0033-2909.132.3.354): reviews and quantitatively synthesises distributed practice in verbal recall; the useful interval depends on retention goal, material, and task.
+- [Hattie & Timperley (2007), The Power of Feedback](https://doi.org/10.3102/003465430298487): analyses differences in feedback type, timing, and delivery; “feedback works” is not a reason to add undirected comments.
+- [Rasch & Born (2013), About Sleep's Role in Memory](https://doi.org/10.1152/physrev.00032.2012): reviews sleep and memory-consolidation research; individual needs, health, and real schedules still require separate judgment.
+- [Pashler et al. (2008), Learning Styles](https://doi.org/10.1111/j.1539-6053.2009.01038.x): finds no adequate evidence for matching instruction to fixed visual/auditory labels while cautioning that untested variants cannot all be declared false.
+- Research differs in sample, material, measure, and delay. Important work should return to current facts, primary sources, real audiences, and named accountable owners.
 
-## Don’t Compare Yourself to Someone in Another League
+Related entry points: [CEFR Goals and Self-check](0-cefr.md) | [Vocabulary](2-vocabulary.md) | [Grammar](grammar.md) | [Listening](3-listening.md) | [Reading](4-reading.md) | [Speaking](5-speaking.md) | [Writing](6-writing.md) | [English Diagnostic](../../templates/english-diagnostic.md) | [Evidence Chain](../../templates/evidence-chain.md)
 
-Besides habits, there’s a more uncomfortable truth: people differ in baseline, pace, and learning ability.
+## Closing: Give the Method to the Next Attempt
 
-- if you copy a top student’s schedule, you’ll likely end up exhausted and ashamed every day
-- vague, unrealistic goals don’t motivate—they crush confidence
+The temptation of a learning method is that it looks like a shortcut. A method begins to belong to you only when the material is closed, the cue is gone, the task has changed, and it can still help you finish something.
 
-Don’t push yourself too hard.
+You do not need to memorise every researcher's name or turn life into continuous measurement. One plain loop is enough: attempt the task alone and let difficulty appear; obtain specific feedback; return after an interval; change one condition and see whether the ability travels with you.
 
-> “There are three stages of growth:  
-> 1) realizing you’re not the center of the world,  
-> 2) realizing some things are impossible no matter how hard you try,  
-> 3) accepting your ordinariness—and enjoying it.” — Zhou Guoping
-
-You need goals that fit *you*, not goals that look good on someone else.
-
----
-
-## If You Don’t Enjoy It, You Won’t Last
-
-Back then I wasn’t really learning. I was chasing rankings.
-
-- rank goes up → a short high
-- rank goes down → instant fear, guilt, and anxiety
-
-No joy. No sustainability.
-
-Interestingly, the most effective learning often happens when you’re driven by interest:
-
-- you pick up a good book, get hooked, and finish it without noticing time
-- you see someone play ukulele, start following tutorials, and a few weeks later you can play a few tunes
-
-If you can tie English to things you genuinely like:
-
-- love TV shows → watch once with Chinese subtitles, then rewatch with English subtitles
-- love tech → read docs and issues in English
-- love gossip → browse English forums
-
-…the whole process gets easier.
-
----
-
-## A Plan Matters (and “Balanced Time” Isn’t Always Smart)
-
-Learning takes strategy. “Equal time for everything” is not automatically better.
-
-My problems back then:
-
-- I didn’t analyze my weak spots, so I couldn’t focus
-- when something was hard, I didn’t discuss or ask for help
-- I filled my day with mechanical study time but left no space for review and reflection
-
-A better approach:
-
-- identify your weak links (listening, vocabulary, writing…), and focus on 1–2 first
-- stay **output-driven**: write it, say it, use it—even if it’s simple
-- review regularly: each week, look back and see what you actually kept
-
-> When I changed my method and stopped pressuring myself, my “total study time” seemed to drop—but my *effective* time went up, and my scores improved.
-
----
-
-## Emotions: Who’s Actually Controlling Your “I Don’t Want to Study”?
-
-When you’re learning any skill, you’ve probably felt this:
-
-> Some days you’re unstoppable.  
-> Other days you can’t focus at all and just want to scroll or game.
-
-When you say “I just don’t feel like studying”, what’s driving that?
-
-Often it’s not laziness. It’s emotion.
-
-- one small thing can kill your motivation for the whole day
-- sometimes it’s anxiety, fear, or anger hiding underneath
-
-Neuroscientist Joseph E. LeDoux suggests emotions like anxiety and fear travel through multiple pathways in the brain. You don’t need the science details here—just this:
-
-> “Not wanting to study” is often a signal, not a moral failure.
-
-So instead of fighting yourself, try:
-
-- when you feel resistance, ask: am I tired? is it too hard? is it too boring?
-- switch the format (materials, time slot, task type) instead of forcing it
-- give yourself a little emotional buffer, then come back
-
-Movie recommendation: *Inside Out*. It explains in a simple way that emotions aren’t enemies—they’re messengers.
-
----
-
-## What to Do (and What Not to Do)
-
-This guide does **not** recommend:
-
-- treating yourself like a monk and burning out
-- risky “efficiency hacks” like cramming on buses, listening while biking, or staying up all night
-- proving you’re hardworking by going extreme
-
-The “results” you squeeze out with raw willpower often get paid back later—with double fatigue and health problems.
-
-> People who push too hard don’t run far.
-
-This guide **does** recommend:
-
-- using methods that make sense and spending time in a stable way
-- building habits that give you more results with less effort
-- assuming you already have some English foundation (and you’re not in the “English is useless” camp)
-- staying serious—but accepting this is a long game
-- trusting science, choosing a plan you can sustain, and enjoying the process
-
----
-
-## Build an English-Friendly Environment
-
-If you can, try to live a little more “inside English”:
-
-- consume media in English (e.g., YouTube instead of Bilibili)
-- follow English-speaking creators you actually care about (games, tech, fitness, crafts, movie reviews…)
-- switch your phone/OS language to English (if it won’t mess up your life)
-
-Make English part of your daily background noise. Over time you’ll feel more comfortable with it, and you’ll tolerate mistakes better too.
-
----
-
-## How Babies Learn Language
-
-If you watch babies, their “sentences” often look like this:
-
-- “phone mom open” → Mom, open the phone for me
-- “smells good, veggies, mom” → Mom’s cooking smells great
-- “ball, little brother, run” → My brother’s ball rolled away
-
-We usually understand them—and we don’t laugh. We respond gently. That creates a safe environment.
-
-Same idea for you:
-
-- you speak more when the environment feels safe
-- at the beginning, it’s fine to glue words together—don’t obsess over perfect grammar
-- if you keep going, your brain will gradually organize those “fragments” into natural phrases
-
-So give yourself permission to speak “imperfect English”, like a baby does.
-
-> If you dare to speak, you’ve already won half the battle.
-
-Let’s start with the most basic—and most important—piece: **vocabulary**.
-
-Recommended:
-
-- [How to learn any language in six months | Chris Lonsdale | TEDxLingnanUniversity](https://www.youtube.com/watch?v=d0yGdNEWdn0)
-- [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY)
-
----
-
-Next: [Vocabulary](2-vocabulary.md)
+A good method does not make you better at explaining how hard you have worked. It makes you more able to complete something when no one is reminding you. What remains is not the name of the method, but the knowledge of how to begin the next unfamiliar problem.

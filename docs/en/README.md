@@ -1,169 +1,232 @@
-<!-- English version -->
-
-English | <a href="#/">中文</a>
+---
+title: "Life Level-up Guide | Lifelong Learning in the AI Era"
+description: Learning continuously in the AI era, Life Level-up Guide helps ordinary people complete real projects, move through difficult seasons, and preserve evidence of growth.
+updated: 2026-10-20
+---
 
 # Life Level-up Guide
 
-An open guide for English learning, AI-era skill building, writing, entrepreneurship, recovery after failure, and long-term personal growth.
+[中文](https://byoungd.github.io/up/) | English
+
+**By Han Xiankai, pen name “Li Pu”**
+
+**A lifelong-learning guide for the AI era.** This living open manuscript begins with English and continues into AI learning, real projects, business experiments, recovery, and the work of returning your life to yourself one small act at a time.
+
+This is not a book that turns life into a polished plan. Think of it as a workshop you can return to: bring a real problem, find your starting point, complete one small action, preserve evidence you can review, and choose what comes next. AI can help you find answers. Judgment, boundaries, and responsibility remain yours.
+
+You do not have to prove that you are clever or disciplined enough to deserve help, and you do not have to finish the book in one sitting. Read a few pages, do one thing, and let the result change your route. There is no shortcut that guarantees success here, only a record tested through action, failure, recovery, and beginning again.
+
+**What you get:** a bilingual open manuscript, downloadable EPUB/PDF editions, reusable worksheets, and a practice path that starts in five minutes, retests one change after fourteen days, and reviews the system after ninety days.
+
+<div class="book-meta" aria-label="Book information">
+  <span>Living manuscript</span>
+  <a href="./book-downloads">Download Center</a>
+  <a href="../downloads/life-level-up-guide-en.epub" download>Download English EPUB</a>
+  <a href="../downloads/life-level-up-guide-zh.epub" download>下载中文 EPUB</a>
+  <a href="../downloads/life-level-up-guide-en.pdf" download>Download English PDF</a>
+  <a href="../downloads/life-level-up-guide-zh.pdf" download>下载中文 PDF</a>
+  <a href="https://github.com/byoungd/up">Source and corrections</a>
+  <a href="./templates/reader-field-note">Reader Field Note</a>
+  <a href="https://github.com/byoungd/up/blob/main/CITATION.cff">Citation</a>
+  <a href="https://creativecommons.org/licenses/by-nc/4.0/">Text CC BY-NC 4.0</a>
+</div>
+
+<div class="quick-start" aria-labelledby="quick-start-title">
+  <div class="quick-start-heading">
+    <span class="quick-start-kicker">START HERE</span>
+    <h2 id="quick-start-title">Choose one action before choosing how much to read</h2>
+    <p>You do not need to read the whole book on your first visit. Choose one entry for today, complete a small action, and let the result point to the next page.</p>
+  </div>
+  <div class="quick-start-actions">
+    <a class="quick-start-action" href="./threads/part-0/reader-guide"><strong>5 minutes: I do not know where to begin</strong><span>Choose a route by problem, see what evidence to keep, and learn how to return after an interruption.</span></a>
+    <a class="quick-start-action" href="./templates/learning-state"><strong>Today: I want to finish one thing</strong><span>Write the real problem, current evidence, smallest action, and boundary, then make an output someone can see.</span></a>
+    <a class="quick-start-action" href="./threads/part-1/open-input"><strong>14 days: I want to practice one English skill</strong><span>Choose listening, speaking, reading, or writing; keep a first sample and retest under new conditions.</span></a>
+  </div>
+  <p class="quick-start-cycle">Ready for a full cycle? Start with the <a href="./templates/90-day-cycle">90-Day Cycle Map</a> and carry one experiment into real work and life.</p>
+</div>
+
+If this guide helps you complete one real action, please [star the repository](https://github.com/byoungd/up) so more learners can find it. For an error, translation gap, or reproducible practice result, use the [issue templates](https://github.com/byoungd/up/issues/new/choose).
+
+## Choose Your Entry Point
+
+This guide is for people who want to improve their English, learn with AI, finish real work, or rebuild a workable rhythm of life. Start with the problem in front of you. You do not need to read from page one or open every subject at once.
 
-The Chinese version is the main edition. This English version keeps the same homepage structure and links to the translated English chapters where they exist; some personal essays and archive pages remain Chinese-first.
+| Your current situation | Start here | One result to preserve |
+| --- | --- | --- |
+| You do not know which page to open | [Reader's Guide](threads/part-0/reader-guide.md) | A problem-based reading route |
+| You want a real baseline for English skills | [English Diagnostic](templates/english-diagnostic.md) | A first sample on one topic and one barrier |
+| You want AI in your work without outsourcing judgment | [AI Learning](threads/part-3/1-ai-learning.md) · [AI Evaluation](templates/ai-evaluation.md) | A reviewable experiment and acceptance criteria |
+| You want to finish a project or test a business idea | [From Problems to First Customers](threads/practice/customer-discovery.md) · [Startup Experiment](templates/startup-experiment.md) | A real output, user feedback, or a failure record |
+| You are rebuilding a daily rhythm | [Life Practice Toolkit](templates/life-practice-toolkit.md) | A boundary you can care for today and the smallest next task |
+| You need an offline copy or a citation | <a href="./book-downloads">Download Center</a> · [Citation](https://github.com/byoungd/up/blob/main/CITATION.cff) | An EPUB/PDF file or a standard citation |
 
-If you only want to improve your English, start with the English learning path. If you are looking for a broader way to rebuild discipline, learning rhythm, and long-term momentum, read it as a life level-up map.
+Every subject follows one working line: **define the problem → preserve a baseline → complete the smallest task → record evidence → retest later → decide what transfers.** AI can help break work down, ask questions, compare options, and give feedback. People still confirm the goal, sources, privacy, acceptance, and final responsibility.
 
-This guide does not sell anxiety or promise shortcuts. It aims to give you three practical things: an executable English learning system, a practical way to learn and upgrade skills with AI, and a real case study of starting again after difficult years.
+AI makes answers cheaper by the day. In seconds, we can get an explanation, code, a plan, even confident-sounding advice about life. What remains scarce is knowing which questions deserve pursuit, which evidence deserves trust, how to turn suggestions into real work, and how to take responsibility for the final judgment.
 
-## What You Get
+The project began in 2017 as Li Pu's English Learning Guide. English was once the whole map; now it is one foundational road within it. The manuscript has widened into AI learning, project development, resource-layer business, life review, and recovery. The question underneath it is still the same: **when the world keeps changing, can I continue to learn, create, and participate in my own life?**
 
-- **A clear English learning path**: mindset, vocabulary, listening, reading, speaking, writing, and AI-assisted English practice.
-- **A practical AI workflow**: how to use tools such as Gemini, ChatGPT, Claude, NotebookLM, Perplexity, and DeepL Write inside goal-driven learning loops.
-- **A personal recovery case**: learning, entrepreneurship, failure, health collapse, and starting again placed on one honest timeline.
-- **Long-term reference material**: word lists, learning resources, AI resources, archived writing, and personal essays.
+My name is Han Xiankai, also known online as Li Pu, and I serve as chairman of China Token Cloud Computing Co., Ltd. I test these methods in learning, software development, enterprise services, and ordinary life. My role and commercial relationships belong in public view. Claims about ability, products, and revenue must be earned by work, users, costs, and time.
 
-## Who This Is For
+The guide returns to one loop:
 
-- Learners who want to improve English but keep getting stuck on vocabulary, listening, speaking, or writing.
-- Learners who want to use AI as a real learning partner instead of a one-off translator or writing shortcut.
-- People who want to rebuild their learning rhythm, action system, and long-term growth process.
-- Readers interested in entrepreneurship, writing, failure recovery, and personal reflection.
-- People who are tired of saving resources without turning them into ability, output, or results.
+**find a problem → learn actively → work with AI → complete a real task → preserve evidence → review and transfer**
 
-## Recommended Path
+It keeps three kinds of claim separate:
 
-You do not need to read everything from top to bottom. Choose the line that matches your current problem:
+- **Research findings** include sources and state the reach of the evidence.
+- **Personal experience** keeps its warmth without pretending to be a universal prescription.
+- **Hypotheses** may enter the conversation, but the next experiment must test them.
 
-1. **English learning**: start with [Understanding](threads/part-1/1-understanding.md) and [Vocabulary](threads/part-1/2-vocabulary.md); use [Listening](threads/part-1/3-listening.md) and [Reading](threads/part-1/4-reading.md) for input; use [Speaking](threads/part-1/5-speaking.md) and [Writing](threads/part-1/6-writing.md) when you understand more than you can express.
-2. **AI learning and skill building**: read [Learning Anything with AI](threads/part-3/1-ai-learning.md) if you want to use AI for programming, writing, exams, industry research, or work output; then read [Learning English with AI](threads/part-1/7-ai.md) for the English-specific workflow.
-3. **Personal recovery and entrepreneurship**: read [My Story](threads/part-4/my-story.md), <a href="#/threads/part-2/entrepreneurship">Entrepreneurship</a>, and the <a href="#/threads/archive/README">Old Blog Archive</a> if you want the life background behind the guide.
+<div class="guide-paths" aria-label="Reading paths">
+  <section class="guide-path-group" aria-labelledby="guide-foundation"><div class="guide-path-group-heading"><span class="guide-path-kicker">01</span><h2 id="guide-foundation">Build the Foundation</h2><p>Put the problem, language, and daily action on one map.</p></div><div class="guide-path-group-items">
+    <a class="guide-path" href="./templates/learning-state"><strong>Lifelong Learning System</strong>Begin with a real problem, a current baseline, and a minimum task so each cycle can continue, be retested, and transfer.</a>
+    <a class="guide-path" href="./threads/part-1/0-cefr"><strong>Foundation: English</strong>Use English to reach global knowledge, technical documentation, and international AI tools, entering cross-cultural work through intelligibility rather than accent similarity.</a>
+    <a class="guide-path" href="./threads/part-1/grammar"><strong>Grammar for Real Expression</strong>Start with whether time, responsibility, condition, and certainty are understood; retest one high-impact structure for fourteen days instead of memorising every rule first.</a>
+    <a class="guide-path" href="./threads/part-1/6-writing"><strong>Writing and Asynchronous Delivery</strong>Preserve an unaided draft, fact sources, and revision reasons so email, reports, decisions, and handovers remain useful when the author is offline.</a>
+  </div></section>
+  <section class="guide-path-group" aria-labelledby="guide-amplify"><div class="guide-path-group-heading"><span class="guide-path-kicker">02</span><h2 id="guide-amplify">Amplify Ability with Tools</h2><p>Let AI accelerate questions and verification while people keep judgment, testing, and responsibility.</p></div><div class="guide-path-group-items">
+    <a class="guide-path" href="./threads/part-3/1-ai-learning"><strong>Learn Anything with AI</strong>Use AI for questions, research, and feedback while keeping fact-checking and final judgment in human hands.</a>
+    <a class="guide-path" href="./threads/part-3/2-ai-development-and-resource-layer"><strong>AI Projects and Resource-layer Business</strong>Move from requirements, prototypes, code, and tests to model access, governance, enterprise delivery, and business validation.</a>
+  </div></section>
+  <section class="guide-path-group" aria-labelledby="guide-life"><div class="guide-path-group-heading"><span class="guide-path-kicker">03</span><h2 id="guide-life">Enter Real Life</h2><p>Carry learning into work, family, relationships, and the author's responsibilities.</p></div><div class="guide-path-group-items">
+    <a class="guide-path" href="./threads/part-1/8-job-search-english"><strong>Global Job Search and Remote Work</strong>Turn a job description into recruiter communication, project explanation, unfamiliar follow-ups, and asynchronous writing, then use real samples to locate the next gap.</a>
+    <a class="guide-path" href="./threads/part-4/family-learning"><strong>Family and Middle-School Learning</strong>Let the learner help define the goal while adults protect environment, privacy, and safety; use fourteen days of evidence instead of surveillance or substituted work.</a>
+    <a class="guide-path" href="./threads/part-2/communication"><strong>Communication: Let Each Other Be Heard</strong>Start with observation, feeling, need, and request, then keep respect and choice alive through expression, listening, refusal, and repair.</a>
+    <a class="guide-path" href="./threads/part-2/care-and-carry-on"><strong>Care for the People Nearby</strong>Turn care into listening, practical help, and shared tasks. Accept support when both people are willing and able, keeping warmth and boundaries together.</a>
+    <a class="guide-path" href="./threads/part-2/my-story"><strong>Life Review and Recovery</strong>Acknowledge failure and cost, then rebuild judgment, order, and action after disruption.</a>
+    <a class="guide-path" href="./projects"><strong>Author Projects and Practice</strong>Make affiliations, purpose, update dates, and non-sponsorship visible so trust does not depend on guesswork.</a>
+  </div></section>
+  <section class="guide-path-group guide-path-group-external" aria-labelledby="guide-external"><div class="guide-path-group-heading"><span class="guide-path-kicker">04</span><h2 id="guide-external">Third-party Resources</h2><p>Optional external entry points, not safety, quality, or compliance endorsements by this book or its author.</p></div><div class="guide-path-group-items">
+    <a class="guide-path" href="https://biezou.com/" target="_blank" rel="noopener noreferrer"><strong>AI Relay Recommendation: biezou.com</strong>This is an optional third-party entry point. The official site describes a unified AI API gateway and admin dashboard. Verify terms, pricing, privacy, and availability before use.</a>
+    <a class="guide-path" href="https://t.me/OpenHuge_ai" target="_blank" rel="noopener noreferrer"><strong>AI Resources on Telegram: OpenHuge_ai</strong>This is a third-party Telegram channel for discovering AI resources. Posts, outbound links, and availability can change; verify sources, privacy, copyright, and security risks.</a>
+  </div></section>
+</div>
 
-If you want the fastest useful start, do three things today: read [Understanding](threads/part-1/1-understanding.md), choose one concrete learning goal, and use [Learning Anything with AI](threads/part-3/1-ai-learning.md) to design a one-week practice plan.
+## Business, Discipline, and AI in Practice
 
-## How to Use This Guide
+Use the [Practice Map](practice.md) to choose a current problem and turn reading into a small experiment with inspectable results. These handbooks complement the six-part book and are included in its digital appendices.
 
-- **First pass**: choose one of the three lines above instead of opening every link.
-- **Goal-based lookup**: treat chapters as a toolbox for vocabulary, listening, AI learning, writing, or recovery after failure.
-- **Weekly execution**: pick one small goal, read one chapter, do one exercise, and leave one visible output.
-- **Review later**: return after a few weeks; the same chapter often answers a different question once your situation changes.
+| Current task | Practical handbook | Copyable tool |
+| --- | --- | --- |
+| A business idea without customer evidence | [From Problems to First Customers](threads/practice/customer-discovery.md) · [A Sustainable Small Business](threads/practice/sustainable-business.md) | [Startup Experiment](templates/startup-experiment.md) |
+| Trouble starting or returning after a break | [Discipline and Consistency](threads/practice/discipline-and-consistency.md) | [Consistency Plan](templates/consistency-plan.md) |
+| AI generates output but delivery is unreliable | [AI Workflows](threads/practice/ai-workflows.md) · [AI Evaluation and Reliability](threads/practice/ai-evaluation.md) | [AI Evaluation Record](templates/ai-evaluation.md) |
 
-## Life Level-up Map
+## Book Structure
 
-The underlying path is simple: open your input, train your output, then test your ability in real life.
+For a complete read, begin with the [Reader's Guide: Put the Book Back into Life](threads/part-0/reader-guide.md), then continue to the [Prologue: Do Not Rush to Change Your Life](threads/part-0/prologue.md). The guide helps you choose an entry, preserve evidence, and return after interruption; the prologue places these methods in one person's story. The book is a loop we revisit, not a straight climb.
 
-1. **Open input**: use English to reach a wider information world; use reading and listening to expand what you can notice.
-2. **Train output**: use speaking, writing, retelling, projects, and AI feedback to turn “I understand” into “I can explain, build, and communicate.”
-3. **Create artifacts**: turn learning into articles, projects, reports, products, courses, or real conversations instead of leaving it in saved links.
-4. **Review your life**: place failure, relationships, health, work, and choices on one timeline, then extract better judgment for the next stage.
-5. **Serve reality**: use your ability in work, entrepreneurship, family, local communities, industries, and concrete human problems.
+Use the [Glossary of Terms and Methods](reference/glossary.md) to follow “definition → evidence → next step” back to the main path. If you are unsure which worksheet fits, start with the [Toolkit Overview](templates/toolkit.md).
 
-## English Learning Path
+| Part | Core question | Entry point |
+| --- | --- | --- |
+| Reader's Guide and Prologue | Where do I enter, and why begin again? | [Reader's Guide](threads/part-0/reader-guide.md) · [Do Not Rush to Change Your Life](threads/part-0/prologue.md) |
+| Part I: Open Input | How do I build a bridge between English and the world, then carry ability into interviews and remote collaboration? | [Part Introduction](threads/part-1/open-input.md) · [CEFR Self-check](threads/part-1/0-cefr.md) · [Vocabulary](threads/part-1/2-vocabulary.md) · [Grammar](threads/part-1/grammar.md) · [Listening](threads/part-1/3-listening.md) · [Reading](threads/part-1/4-reading.md) · [Speaking](threads/part-1/5-speaking.md) · [Writing](threads/part-1/6-writing.md) · [Job-search English](threads/part-1/8-job-search-english.md) |
+| Part II: Return to Life | How do ability, work, relationships, failure, choices, and recovery affect one another? | [Part Introduction](threads/part-2/return-to-life.md) · [My Story](threads/part-2/my-story.md) · [Depression, Anxiety, and Recovery](threads/part-2/depression-anxiety-recovery.md) · [Narrative and Evidence](threads/part-2/narrative-and-evidence.md) · [Recovery and Decisions](threads/part-2/recovery.md) · [Communication](threads/part-2/communication.md) · [Relationships](threads/part-2/relationships.md) · [Care and Shared Responsibility](threads/part-2/care-and-carry-on.md) · [Entrepreneurship](threads/part-2/entrepreneurship.md) |
+| Part III: Amplify Ability | How can I use AI without outsourcing judgment or attention? | [Part Introduction](threads/part-3/amplify-ability.md) · [AI Learning](threads/part-3/1-ai-learning.md) · [Attention, Artifacts, and Evidence](threads/part-3/3-attention-and-judgment.md) · [Project Practice](threads/part-3/2-ai-development-and-resource-layer.md) |
+| Part IV: Practice and Recovery | How does learning return to the body, family, and daily life while protecting a young learner's agency? | [Part Introduction](threads/part-4/practice-and-recovery.md) · [First Week Practice](threads/part-4/week-1.md) · [Family Learning](threads/part-4/family-learning.md) · [Daily System](threads/part-4/daily-system.md) · [Rhythm](threads/part-4/rhythm-and-compounding.md) |
+| Part V: Long-Term Action | How can ninety days, a real project, and the period afterward keep a method accountable? | [Part Introduction](threads/part-5/long-term-action.md) · [90-Day Action Plan](threads/part-5/90-day-plan.md) · [Book Case Study](threads/part-5/book-as-proof.md) · [After Ninety Days](threads/part-5/after-90-days.md) |
+| Part VI: Be Your Own Lifelong Friend | How can I understand, recognise, care for, and improve myself through change? | [Understanding Yourself](threads/part-6/1-understanding-yourself.md) · [Knowing Yourself](threads/part-6/2-knowing-yourself.md) · [Being Kind to Yourself](threads/part-6/3-being-kind-to-yourself.md) · [Improving Yourself](threads/part-6/4-improving-yourself.md) · [Being Your Own Lifelong Friend](threads/part-6/5-being-your-own-lifelong-friend.md) |
+| Afterword | Who do I want to become after leveling up? | [The Greatest Progress Is Finding Your True Self](threads/part-6/afterword.md) |
 
-### Starting Point: Calibrate the Direction
+## Begin with One Small Act Today
 
-[![understanding](../assets/understanding-en@2x.svg)](threads/part-1/1-understanding.md)
+Lifelong learning is not opening ten courses at once. It is completing one act today that leaves a trace:
 
-- [Understanding](threads/part-1/1-understanding.md): why you are learning, where you want to use English, and how to avoid replacing progress with anxiety.
+1. Choose a real problem: a blocked step at work, a concept you need to understand, a person you want to help, or a small unfinished project.
+2. Record your baseline in [Learning State](templates/learning-state.md): what you know, what you cannot yet do, and what would count as complete. For decisions, attention, relationships, or recovery, use the [Life Practice Toolkit](templates/life-practice-toolkit.md).
+3. Ask AI to help shape a 25–45 minute task, then check the sources, make the choices, and finish the output yourself.
+4. Preserve notes, code, a recording, an email, or feedback rather than saving only the conversation.
+5. A week later, use the [Weekly Review](templates/weekly-review.md) to examine completion, quality, retention, and transfer before choosing the next step.
 
-[![vocabulary](../assets/vocabulary-en@2x.svg)](threads/part-1/2-vocabulary.md)
+You do not have to see the whole road. The first piece of evidence you preserve today becomes somewhere the next step can stand.
 
-- [Vocabulary](threads/part-1/2-vocabulary.md): vocabulary size, memory methods, review rhythm, and pronunciation awareness.
+## AI Learning and Project Practice: From Answers to Delivery
 
-### Input: Make English Part of Daily Life
+When tools change too quickly to follow, start with [AI Trends and a Learning Roadmap](threads/part-3/6-ai-trends-and-learning-roadmap.md). Use an [AI Trend Experiment](templates/ai-trend-radar.md) to test one new capability: check primary sources, keep a manual baseline, measure full costs, and decide whether to continue.
 
-[![listening](../assets/listening-en@2x.svg)](threads/part-1/3-listening.md)
+[Learning Anything with AI](threads/part-3/1-ai-learning.md) begins with “What problem am I trying to solve?” [Attention](threads/part-3/3-attention-and-judgment.md) addresses input boundaries and independent judgment, [Artifacts](threads/part-3/4-artifacts-and-delivery.md) moves understanding toward a deliverable, and [Evidence](threads/part-3/5-evidence-and-transfer.md) checks immediate performance, delayed retention, and transfer. AI can ask, explain, compare, and generate practice; people still set the goal, choose sources, detect fabrication, and use what they learned after the conversation closes.
 
-- [Listening](threads/part-1/3-listening.md): intensive listening, extensive listening, suitable materials, and the bridge toward native-speed content.
+When learning enters a project, [AI Learning, Project Development, and Resource-layer Entrepreneurship](threads/part-3/2-ai-development-and-resource-layer.md) extends the work into requirements, prototypes, code, tests, documentation, and delivery. Speed is not the only measure. Important decisions should be explainable, testable, or reversible, and convenience must not erase boundaries around customer data, company secrets, or third-party privacy.
 
-[![reading](../assets/reading-en@2x.svg)](threads/part-1/4-reading.md)
+Through China Token Cloud and `token.love`, this path also examines model access, routing, metering, permissions, deployment, operations, and enterprise support. It asks why a customer might pay, how work should be accepted, and whether costs can be covered. It does not claim proven profit or promise that everyone can make money with AI.
 
-- [Reading](threads/part-1/4-reading.md): original books, English documentation, and English-speaking communities.
+A software failure in 2022 showed me that missing datasets, old architecture, and preset results can hide behind UI and an “AI” story for a while, but cannot survive real users, costs, and incidents. That is why the method insists on baselines, evidence, rollback, cost, and responsibility. Products change; source verification, data safety, acceptance, and final responsibility cannot be outsourced.
 
-### Output: Turn Understanding Into Expression
+## For Those Still Looking for Direction
 
-[![speaking](../assets/speaking-en@2x.svg)](threads/part-1/5-speaking.md)
+### For Younger Readers
 
-- [Speaking](threads/part-1/5-speaking.md): pronunciation, reading aloud, real conversations, and preparing common answers.
+You do not have to identify one permanently correct direction in your twenties. Many paths emerge after you complete a few small projects, see several kinds of work, and carry the consequences of a few decisions. Keeping the ability to learn and turn is more reliable than choosing a perfect track.
 
-[![writing](../assets/writing-en@2x.svg)](threads/part-1/6-writing.md)
+If career anxiety keeps you collecting courses, certificates, and success stories, trade some of that collection for a project you can finish in two weeks. Solve a nearby problem, make a tool that runs, write a sourced article, or improve part of a real user's process. The project may fail, but it will show you what you enjoy, what you lack, whether you can deliver, and whether another person finds the result useful.
 
-- [Writing](threads/part-1/6-writing.md): reading, practice, discussion, tools, and clearer everyday expression.
+AI can lower the cost of exploration, learning, and creation. It cannot build your reputation. Visible work, code, writing, customer feedback, review notes, and relationships with people who choose to work with you again can compound over time.
 
-### English Scenario: Use AI as a Training Partner
+### For Anyone in a Difficult Season
 
-- [Learning English with AI](threads/part-1/7-ai.md): apply the general AI learning loop to English listening, speaking, reading, writing, vocabulary, and exam or workplace scenarios.
+Unemployment, business failure, the end of a relationship, damaged health, and prolonged uncertainty can reduce a person's capacity to act. A low point is not an examination you must immediately win. Reduce life to a scale you can care for: sleep, eat, step outside, answer one important email, or tell someone trustworthy, “I need help right now.”
 
-## AI Learning and Skill Building
+Pausing is not surrender. Asking for help is not weakness. If five minutes is what you can do today, preserve five minutes of evidence and add weight when strength returns. These personal stories are not medical care or psychotherapy. If low mood, sleeplessness, hopelessness, or thoughts of harm persist, contact someone you trust and seek qualified local medical or mental-health support. Safety comes before growth.
 
-- [Learning Anything with AI](threads/part-3/1-ai-learning.md): use AI as a system for goals, materials, explanation, output, feedback, review, and project delivery across programming, writing, exams, industry research, and work output.
+## Foundation: English Remains an Important Door
 
-## Extended Content
+English is no longer the whole guide, but it remains a foundation for lifelong learning. It helps you read global knowledge and technical documentation, follow international courses and research, use more AI tools, and work across cultures with less mediation.
 
-[![Others](../assets/Others-en@2x.svg)](threads/part-2/x-misc.md)
+Use [CEFR Goals and Self-check](threads/part-1/0-cefr.md) to establish a baseline, then enter [Learning Principles](threads/part-1/1-understanding.md), [Vocabulary](threads/part-1/2-vocabulary.md), [Grammar](threads/part-1/grammar.md), [Listening](threads/part-1/3-listening.md), [Reading](threads/part-1/4-reading.md), [Speaking](threads/part-1/5-speaking.md), [Writing](threads/part-1/6-writing.md), or [Learning English with AI](threads/part-1/7-ai.md) as the task requires. You can also begin with the [English Diagnostic](templates/english-diagnostic.md), [Vocabulary Evidence Card](templates/vocabulary-audit.md), [Listening Evidence Card](templates/listening-audit.md), [Reading Evidence Card](templates/reading-evidence.md), [Speaking Evidence Card](templates/speaking-evidence.md), or [Writing Evidence Card](templates/writing-evidence.md).
 
-- <a href="#/threads/word-list/Common">Word Lists</a>: vocabulary lists for general English, programming languages, Prompt, and Vibe Coding.
-- [Misc](threads/part-2/x-misc.md): notes on learning, bootcamps, devices, and personal experience.
-- [Week 1](threads/part-4/week-1.md): English practice content about sleep, lifestyle, and stress.
+English ability is not proved by a collection of words. It is proved by what you can understand, express, and complete in a real situation. English is a bridge, not a wall against which to measure your worth. When the four skills differ, do not average them into a verdict: preserve a first sample in each, choose one barrier, run a parallel task after seven days, and retest one real delivery after thirty days.
 
-## AI Practice and Real-World Work
+## Life Review and Recovery
 
-The Chinese edition contains more up-to-date notes about my AI practice in China, including [token.love](https://token.love), [ku0.com](https://ku0.com), and recent work around AI for the real economy.
+The [Communication chapter](threads/part-2/communication.md) brings observation, feeling, need, and request into family, intimate, and work settings, connecting them to boundaries, repair, and leaving.
 
-The important question is not which model is fashionable this week. The important question is how ordinary people can use AI to improve learning speed, output quality, work productivity, and business judgment.
+[My Story](threads/part-2/my-story.md), [Narrative and Evidence](threads/part-2/narrative-and-evidence.md), [Echoes](threads/part-2/x-misc.md), [Recovery](threads/part-2/recovery.md), [Decision-Making](threads/part-2/decision.md), [Relationships](threads/part-2/relationships.md), [Care](threads/part-2/care-and-carry-on.md), [Entrepreneurship](threads/part-2/entrepreneurship.md), and the [Archive](threads/archive/README.md) preserve failure, disrupted health, changing relationships, departure, and return. Looking back separates fact, harm, responsibility, and luck so we can ask which decisions worked, which costs must not be hidden, and how to live more honestly next time.
 
-On June 16, 2026, I visited Alibaba Cloud headquarters in Hangzhou as chairman of China Token Cloud Computing Co., Ltd. That visit strengthened one belief: useful AI should not stay inside concepts or demos. It should enter real industries, real communities, and ordinary daily life.
+Personal experience is not medical, legal, investment, or business advice. Public content follows data minimisation and does not expose unnecessary third-party identity. Stories and photographs involving others are retained only with clear permission and respect for privacy.
 
-For Chinese updates, you can follow my Douyin account: `词元云韩先凯` (`72581209403`). I share notes on AI for the real economy, English learning, and personal growth there.
+## Life Is Still Moving
 
-![Douyin QR code for 词元云韩先凯](../assets/douyin-qr.png)
+A method reveals its strength only after it enters a life. Relationships end and may begin again. Work changes. Learning acquires new meaning when it returns to real people and real problems.
 
-## Personal Background
+<div class="latest-updates">
+  <figure class="latest-update">
+    <img src="../assets/latest/fourth-marriage.webp" alt="Han Xiankai and his partner at his fourth wedding ceremony" width="1320" height="1642" loading="lazy" decoding="async" fetchpriority="low" />
+    <figcaption><strong>Fourth wedding ceremony</strong>This photo records Han Xiankai's fourth wedding ceremony. A reflection on love and marriage: love is more than a moment of excitement; it is the daily choice to respect, take responsibility, and grow together.</figcaption>
+  </figure>
+  <figure class="latest-update">
+    <img class="latest-update-visit-photo" src="../assets/latest/current-qwen.jpg" alt="Han Xiankai viewing a Qwen display during a visit to Alibaba" width="1706" height="1279" loading="lazy" decoding="async" fetchpriority="low" />
+    <figcaption><strong>Visiting Alibaba</strong>I visited Alibaba to learn about Qwen at its on-site display.</figcaption>
+  </figure>
+</div>
 
-This guide began with one specific question.
+## Author Projects and Disclosure
 
-In early July 2017, `W.`, who was preparing for TOEFL, asked me:
+Products, company visits, and real-world projects involving Han Xiankai live on [Author Projects and Practice](projects.md). That page states the relationship, purpose, update date, and non-sponsorship status. Commercial relationships do not change the guide's recommendation standard; by default, the site uses no ads, analytics, or trackers.
 
-**How can I learn English efficiently?**
+You can also follow me on [X](https://x.com/ourleap) for updates on AI practice, English learning, and personal growth.
 
-I first wrote down a few practical notes, then gradually expanded them into this guide. English is still the starting point, but the larger question is how a person learns, recovers, and keeps moving after difficult years.
+### Continue on Douyin
 
-Dedicated to my once-beloved `W.` Some stories belong near the beginning; others are better read when you want the background.
+Follow **Han Xiankai of China Token Cloud (Douyin ID: 72581209403)** for short updates on English practice, AI collaboration, real projects, and life-level-up work. The QR code is only a public account-following entry point; the site has no ads, analytics, or trackers and does not collect visit data through a follow. If scanning is unavailable, search Douyin for “Han Xiankai” or `72581209403`.
 
-> We each live in our own past. It takes one minute to get to know someone, one hour to like them, one day to fall in love with them, yet it can take a lifetime to forget them.
+<figure class="author-social-card">
+  <img src="../assets/creator-douyin.jpg" alt="Douyin account QR code: follow Han Xiankai of China Token Cloud for English, AI, and growth practice" width="360" height="538" loading="lazy" decoding="async" />
+  <figcaption>Author-provided public account QR code; image metadata has been removed.</figcaption>
+</figure>
 
-Related reading:
+## Project Boundaries
 
-- [My Story](threads/part-4/my-story.md): entrepreneurship failure, health collapse, returning home, and starting again.
-- <a href="#/threads/part-2/entrepreneurship">Entrepreneurship</a>: Chinese-only essay about ambition, cash flow, responsibility, and mission.
-- <a href="#/threads/archive/README">Old Blog Archive</a>: Chinese-only older writing and recovered archive posts.
+- This is an open-content project, not open-source software in the OSI sense. Text and author-created content use **CC BY-NC 4.0**; site configuration, checks, and build code use **MIT**. See [Licensing](https://github.com/byoungd/up/blob/main/LICENSE.md).
+- Sources and licensing status for quotations, images, and third-party material are recorded in [Attributions](https://github.com/byoungd/up/blob/main/ATTRIBUTIONS.md).
+- Read [Contributing](https://github.com/byoungd/up/blob/main/CONTRIBUTING.md), the [中文贡献指南](https://github.com/byoungd/up/blob/main/CONTRIBUTING.zh-CN.md), and the [Code of Conduct](https://github.com/byoungd/up/blob/main/CODE_OF_CONDUCT.md) before contributing.
+- Check dates for product and service entries are recorded per page and in [Attributions](https://github.com/byoungd/up/blob/main/ATTRIBUTIONS.md); capability, availability, and compliance scope still require official pages, formal terms, and real acceptance. Outdated notes are welcome as issues.
 
-## Why Bookmark It
+## Read Online
 
-This is not a one-time article. It is a notebook that keeps growing with tools, experience, and time. It will keep updating, and it is worth returning to every so often — the place that blocked you last time may have opened up by the next.
+- [GitHub Pages](https://byoungd.github.io/up/en/)
+- [GitHub repository](https://github.com/byoungd/up)
+- Historical writing has been preserved in [Entrepreneurship](threads/part-2/entrepreneurship.md) and [My Story](threads/part-2/my-story.md); unstable external archive links are not used as current entry points.
 
-If it helps you, save it, share it, or send one chapter to a friend who is stuck. Good writing should not stay in a browser tab; it should turn into action.
-
-## English Proficiency Levels
-
-![CEFR](../assets/CEFR-en@2x.svg)
-
-> Source: [Global scale - Table 1 (CEFR 3.3): Common Reference levels](https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)
-
-## Features
-
-![Features](../assets/feature-en.svg)
-
-## Online Reading
-
-- GitHub Pages: https://byoungd.github.io/up/#/
-- Chinese (Zhihu): https://zhuanlan.zhihu.com/p/444211376
-- GitHub repository: https://github.com/byoungd/up
-
-## Reprint
-
-If you repost this guide, please credit the author and include the GitHub link. Thank you.
-
-## License
-
-This work is licensed under CC BY-NC 4.0.
-
-## Note
-
-This guide does not accept donations or sponsorship.
+If you do one thing today, create a [Learning State](templates/learning-state.md), write down the real problem, current evidence, and smallest next task, then complete it. You do not have to see the whole road before you begin; some roads appear only after your foot lands.

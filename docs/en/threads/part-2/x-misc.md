@@ -1,187 +1,146 @@
-# Misc (Random Thoughts)
-
-Source (中文): <a href="#/threads/part-2/x-misc">扯淡篇</a>
-
-This chapter is intentionally a bit off-topic: personal opinions, stories, and some “learned the hard way” moments.
-
+---
+title: "Echoes: Do Not Romanticise Avoidance"
+description: Re-read school violence, long-term insomnia, failed courses, training, and early work through facts, responsibility, care, and the next choice.
+updated: 2026-09-01
 ---
 
-## A Few Words About IT Bootcamps in China
+# Echoes: Do Not Romanticise Avoidance
 
-In recent years, the internet industry in China grew fast. It became both “the hottest field” and also one of the most misunderstood.
+When I was young, I liked turning a life into one decisive sentence.
 
-Because the pay can be good, a lot of people from other industries try to jump in.
+Good grades meant I was clever. Falling grades meant my teachers did not understand me. Skipping class was resistance to rigid rules. Enduring pain proved strength. Finding a job later seemed to confirm that every earlier act of defiance had been leading somewhere right.
 
-If the only reason you want in is “the salary is higher than what I have now”, but you don’t like the work at all… then the more urgently you push yourself into the industry, the more painfully you’ll eventually push yourself out.
+Those sentences protect pride well at twenty. They are sharp and complete; they leave almost no opening. Walk a little farther, however, and other sounds return: the body that was ignored, the people who cleaned up after me, the luck left unnamed, and the consequences I could have carried sooner.
 
-Try to optimize for work that you **enjoy and can do well**. I hope you get to live the life you want—not trade life away just to survive.
+This chapter is neither a trial of my younger self nor an attempt to turn old wounds into inspiration. I want to reopen several memories and separate four things: **what happened, how I explained it then, what I own now, and what I am willing to do differently next time.**
 
-I’ll quote a passage from *Front-end Developer Handbook 2017* (with the named institutions removed):
+> Content note: this chapter refers to school violence, long-term insomnia, and past suicidal thoughts. These are personal experiences, not medical advice. Violence is not justified by a victim's character or behaviour. If you are facing persistent sleeplessness, hopelessness, thoughts of harm, or a threat to your safety, contact someone you trust and seek qualified local medical, mental-health, or emergency support first.
 
-> Lately a lot of non-accredited, expensive, front-end code schools/bootcamps have emerged.  
-> These avenues of becoming a front-end developer are typically teacher directed courses…  
-> Keep in mind… this is the web! Everything you need to learn is on the web for the taking…  
-> However, if you need someone to tell you how to take and learn what is actually free, and hold you accountable… you might consider an organized course.  
-> Otherwise… I am not aware of any other profession that is practically free for the taking with an internet connection… and a burning desire for knowledge.  
-> — *Front-end Developer Handbook 2017*
+## 1. I Treated Intelligence as a Free Pass
 
-So if you want to enter the industry through training, my advice is:
+In middle school, I ranked near the top of my year. I also developed a dangerous habit: if I could find an answer faster, I thought I had earned the right to mock someone else's mistake. I dismissed lessons, challenged teachers, and mistook refusal to cooperate for independence.
 
-You’re trying to join the internet industry. You should have “use the internet” as your first instinct. Spend that expensive tuition on something fun for yourself.
+I was later subjected to violence at school. The school dealt with one teacher involved; another apologised after losing control. For a long time, whenever I told this story, I rushed to add, “Most of the problem was mine.” Blaming myself first seemed like proof that I was honest, fair, and somehow more mature than the injury.
 
-> If you’re still a student and a bootcamp tries to push you into “student loans / installment plans”, be extra careful. Some of them are genuinely shady.
+Now I am willing to hold two truths together: **violence is not education, and I should not have been hurt; arrogance and humiliation are not independence, and that part is mine to change.** The first protects the facts. The second protects the possibility of growth. Neither cancels the other.
 
----
+When responsibility and harm are mixed together, a story tends to move toward one of two extremes. I become the permanently innocent hero, or I demonstrate my capacity for reflection by finishing the defence of the person who crossed a boundary. The harder and more accurate account allows both judgments to stand: someone crossed a line, and I still needed to change how I treated people.
 
-## Are Bootcamps Worth It?
+Afterward, I lost interest in mathematics and tore up my competition certificates. The paper made almost no sound. The consequences lasted much longer. I believed I was rejecting an evaluation system I disliked; I was also throwing away part of an ability that might have continued to grow.
 
-I trained for 4 months and spent 20,000 RMB on web front-end development.
+## 2. The Body Keeps Unsettled Costs
 
-Two weeks after finishing, I got an offer from Meituan.
+In high school, I developed insomnia.
 
-I admit I wasn’t the best student in class.
+I could not sleep at night and had no energy in class. Because I could not learn during the day, I feared the next night and the next failure, which made sleep even harder. My homeroom teacher saw falling grades. The grade director saw lateness. My father saw a ranking. I saw a person who had used achievement to recognise himself losing the only proof he knew.
 
-But I was the first one to find a job.
+My seat was moved to the front row. Later, my bed was moved into a hospital. I spent two years receiving treatment for insomnia. At the worst point I had suicidal thoughts. On many nights I cried alone in a bathroom and wanted only to sleep.
 
-And it was a big company.
+Looking back, I no longer summarise this as “willpower defeated insomnia”. Recovery is rarely that tidy, and memory cannot establish medical causation. Professional assessment, time, changes in environment, family care, and the activities I found may all have played a part.
 
-I’ve always believed hard work can make up for talent. If you’re determined, a lot is possible.
+What I can confirm is that I began practising calligraphy with my right hand. I had written with my left hand before. Changing hands gave the long nights one small, slow activity that did not judge my whole life at once. A bad horizontal stroke could be written again. Ten minutes still left a sheet of paper behind.
 
-It’s been one week since I joined. Everyone is nice. They even gave me an electric scooter, a helmet, and a coat.
+Later I won calligraphy competitions, received high marks for Chinese essays, and gradually slept better. Calligraphy was not treatment, and the story does not prove that a hobby cures illness. It was a handrail in that season: when I could not solve an entire life, it gave me one bounded act to hold.
 
-Anyway, gotta go—new order just came in.
+A small act in a low season does not have to reverse fate. Sometimes its work is simply to help a person finish today and leave a little usable strength for tomorrow.
 
----
+## 3. I Mistook Avoidance for Freedom
 
-## “5 Minutes a Day to Quit English Forever”
+At university, an English teacher asked me to spell words because I had forgotten my textbook. I got every word right and proudly continued with a short conversation in English. After that, she paid close attention to my attendance.
 
-A lot of training/education businesses sell the idea of “N minutes per day and your English will magically improve”. It’s basically candy: lure you in first, talk later.
+I interpreted the attention as persecution and called skipping class resistance. Eventually other teachers in the department began checking whether I was present. By the second semester of junior year, I had failed nineteen courses. The university planned to move me back a year, and graduation was close to impossible.
 
-English is a language. You can’t truly acquire it in a ridiculously short time.
+The same English teacher I believed was “against me” spoke with my homeroom teacher, department head, and academic office. She argued that I should remain in my year. The condition was clear: retake nineteen courses, or leave without a degree.
 
-“Fragmented learning” often ends in:
+During senior year I carried a heavy bag between classrooms and the library. At the end, I faced twenty-six examinations. Each evening I hated her again in my head, as if resentment preserved the last respectable part of my defiance.
 
-- giving up
-- or getting distracted into something else (like discovering you really love American TV shows)
+When I passed all nineteen retakes, I nearly cried. Only later did I understand what had changed me. It was not proof that I had always been gifted. Someone preserved one opportunity for me without taking the examinations in my place.
 
-If you’re working full-time, you need a real plan: combine methods and build a system.
+Help does not erase consequence. Strictness is not automatically malice. A person can be grateful for having been held up and still admit the burden he placed on others.
 
-So yeah—I don’t recommend paying for that kind of empty promise.
+The sentence I now leave with those university years is this: **do not romanticise avoidance.** Escaping a class, a conversation, or a deadline briefly feels like taking back control. But when the cost is paid by your future self and the people around you, it is not freedom. The invoice has simply not arrived.
 
----
+## 4. One Success Cannot Decide for Someone Else
 
-## Kindle and iPad
+After graduation, I spent four months and RMB 20,000 on web front-end training. Two weeks after it ended, I received an offer from Meituan and was among the first in the class to find work.
 
-I know a lot of people’s Kindle and iPad are collecting dust… or being used as instant noodle lids.
+The old article interrupted itself here with a joke: “They even gave me an electric bike, a helmet, and a coat. Gotta go, another order just came in.” The joke preserves my voice at the time, but it also exposes something I learned later. A personal result can easily become an advertisement for a course, even when it may have emerged from existing ability, a hiring window, city-level opportunity, practice, and luck acting together.
 
-That might be funny, but is that really why we bought them?
+I therefore cannot use my outcome to claim that bootcamps always work. Nor can I claim that abundant public material makes all paid learning worthless. What a course may genuinely provide is structure, practice, feedback, peers, and accountability, not secret knowledge.
 
-![confused](../../../assets/黑人问号.jpg)
+Before paying, check at least five things:
 
----
+1. What real work must be completed, beyond watching a number of videos?
+2. Who gives specific feedback on your errors, and how often?
+3. How are employment outcomes counted, and does the denominator include people who did not find work or changed fields?
+4. Where are the refund, loan, instalment, default, and employment terms written?
+5. If the ideal job does not appear, is the cost still within what you can carry?
 
-## A Pretty Painful Learning Story (Personal)
+A success story can show one possibility. It cannot provide a probability or carry another person's debt and time.
 
-In middle school, I ranked No.1 in my grade. I got arrogant.
+## 5. Five Minutes and a Device Are Not Magic
 
-In 8th grade, a new math teacher arrived. I couldn’t stand that he sometimes explained easy problems incorrectly. I looked down on him, ignored homework, and basically did my own thing in class.
+I also wrote about whether five minutes a day could teach English and whether a Kindle or iPad was worth buying. They seem like separate topics, but both contain the same wish: to find a tool that makes change easier without requiring us to face repetition, duration, and uncertainty.
 
-One day he messed up another problem. I laughed and shook my head. He must have been holding it in for a while—he snapped and beat me. Later the principal found out and fired him.
+Five minutes has real value. It can review chunks, shadow a recording, produce three sentences, or open the file you avoided yesterday. But five minutes is best at starting and maintaining contact. By itself, it rarely carries deep understanding, complete output, feedback, and revision.
 
-In 9th grade, I repeated the same mistake with another math teacher. This time it wasn’t because he was wrong, but because his method wasn’t “optimal”. I got beaten again. My deskmate even cried. I somehow didn’t feel much pain.
+A device is similar. Its value is not settled by brand, price, or the excitement of ownership. It is settled by whether it repeatedly reduces friction in a real task: whether the text is comfortable, material is searchable, annotation returns to writing, and you still choose to open it a week later.
 
-Later that teacher apologized. He slapped himself, grabbed my hand, and tried to make me hit him. I said, “The last teacher who hit me got fired.”
+A useful boundary looks like this:
 
-He told me his father was seriously ill, his brother was unemployed, and he needed this job. We made a deal: I didn’t have to attend his math class; I could go play.
+| Tool or promise | What it may help | What it cannot replace |
+| --- | --- | --- |
+| Five minutes a day | Starting, review, continued contact | Deep practice, feedback, complete delivery |
+| A course | Structure, material, feedback, peers | Interest, practice, judgment, employment outcomes |
+| A device | Lowering friction in reading or making | Choosing content, returning, producing work |
+| AI | Decomposition, explanation, practice, revision support | Source checks, privacy boundaries, final responsibility |
 
-And I really didn’t attend his math class after that.
+A tool belongs between an action and a result. Once it becomes proof of identity, it easily becomes another form of delay. “I bought it”, “I enrolled”, and “I have done this for five days” are not yet the same as “I can do it”.
 
-Afterwards, I completely lost interest in math. I even ripped up my certificates from math competitions.
+## 6. What I Actually Want to Keep
 
-Youth. Ego. Sigh.
+I once used these stories as evidence for talent, effort, and interest. Reading them now, I would rather keep four less attractive but more dependable conclusions.
 
-In high school, pressure got intense—not only from school, but from my own unrealistic expectations.
+### Being Hurt Is Not Failure, and Reflection Is Not Self-conviction
 
-Because I didn’t manage “charging” at night (resting) well, I was exhausted in the daytime. Then at night I couldn’t fall asleep, worried that lack of sleep would ruin the next day… which made me even more anxious… which made me sleep even worse.
+Admitting what I did wrong does not require denying that someone else crossed a boundary. Responsibility is not a search for one person who deserves all the pain. It is a way to clarify the boundary and change the next action.
 
-My homeroom teacher criticized my free-falling grades and kept calling me into the office.
+### Resistance Is Not Freedom
 
-The grade director only cared whether I was late again so he could “score a point”.
+Freedom includes consequence: knowing what you refuse and who will pay after the refusal. Resistance that enjoys the posture but does not carry the cost eventually becomes another form of passivity.
 
-My dad stopped attending parent meetings once he learned how far my ranking had dropped.
+### Persistence Does Not Prove Direction
 
-Over time, it turned into a vicious cycle. I developed insomnia. I was disappointed in myself. My seat got moved to the front row. My bed got moved into a hospital.
+Effort approaches a goal only when it enters feedback, boundaries, and review. Adding more without evidence can merely increase the sunk cost.
 
-I spent two years treating insomnia. It was a dark period.
+### Receiving Help Is Not Weakness
 
-During that time I had moments where I didn’t want to live anymore. “Insomnia is painful” is honestly an understatement.
+A teacher preserving one opportunity, a parent reminding someone to eat, or a professional providing an assessment can all become conditions for standing again. Accepting help does not cancel agency. It gives agency somewhere to return.
 
-Many cold nights, I cried alone in the bathroom, wondering what life meant.
+## 7. Give an Old Story a New Reading
 
-I just wanted one good night of sleep. But I couldn’t.
+If you also carry a story you repeat, read [Narrative and Evidence](narrative-and-evidence.md), then place the story into four columns. Do not search for the perfect line yet. Let facts and responsibility return to their own places.
 
-No one told me that life isn’t about beating others. It’s about enjoying the process of moving toward your goals—and letting results be a reward for your actions.
+| Observable fact | My explanation then | Responsibility I own now | Next observable act |
+| --- | --- | --- | --- |
+| Dated, recorded, or checkable behaviour | How I understood myself and others | Apologise, stop, repair, ask for help, set a boundary | One conversation, retest, or stopping condition |
+| | | | |
 
-Before the insomnia, I wrote with my left hand. During the insomnia, to kill time, I learned to write with my right hand. I practiced calligraphy, which eased the pain a bit.
+Then ask four questions:
 
-I spent more time on calligraphy, won competitions, and got perfect scores in Chinese essays more than once (I remember the one criticizing exam-focused education best).
+1. Have I poured later knowledge back into the past?
+2. Have I defended a violation merely to prove that I can reflect?
+3. Have I turned one fortunate result into a method for everyone?
+4. Which act can this story change today, beyond changing how I feel?
 
-Then something shifted. At night I started feeling sleepy again. I could sleep.
+If the memory returns you to persistent sleeplessness, panic, hopelessness, or danger, stop the exercise. Go first to [Recovery: Catch Yourself Before You Push Forward](recovery.md), a trusted person, and qualified professional support. No review is worth injuring yourself again.
 
-My grades improved a bit too. I still did poorly on the college entrance exam overall, but my high scores in Chinese and English helped me get into a decent university (by then I basically never touched math again).
+## Closing: Let the Past Stop Speaking for Today
 
-So when you’re at a low point in life, try learning something new. You might find unexpected joy in it.
+I once believed growth meant finding a cleverer explanation and arranging every failure as foreshadowing for the present. Now I am more willing to admit that some things were simply injuries, some were luck, and some costs do not disappear because I later stood again.
 
-Learn to let go, accept yourself, and find what you truly like. If something is necessary for your work and life, try to learn to like it.
+The past does not have to remain at the centre of the courtroom. We can return facts to facts, injury to care, error to responsibility, luck to chance, and the next step to today.
 
-That’s part of why I’m sharing these experiences—to help people waste less time and take fewer detours.
+I do not need to prove that my younger self was always right. Nor do I need lifelong shame to prove that he was once wrong. I need only hear the echo when it returns and make one choice that is not entirely the same.
 
----
-
-During college, my English teacher had it out for me. It started because I forgot my textbook in one class. She asked me to spell words… and I got all of them right.
-
-She praised me in English. I showed off a bit and had a fairly fluent conversation with her.
-
-The whole class looked at me with envy (or contempt—hard to tell). I still feel a little proud when I remember it.
-
-After that, she kept targeting me. I never escaped roll call again.
-
-I hated her.
-
-Then, thanks to her “efforts”, basically the whole department started watching me. Every attendance check began with: “Is the guy from Class 2 here?” If I was there, they didn’t bother calling names anymore.
-
-By the second semester of junior year, I failed 19 courses.
-
-At the start of senior year, the university wanted to demote me back a year. Graduation seemed impossible.
-
-Then the English teacher helped me talk to the homeroom teacher, the department head, the academic office… and insisted I stay in my year. The deal was simple: retake 19 courses; if I failed, I’d drop out.
-
-Senior year, I carried a heavy backpack and studied every day in classrooms and the library. Every evening on the way back to the dorm, I would “hate my English teacher again”.
-
-How can someone be that intense?
-
-Final exams: 26 courses. I was exhausted.
-
-When I found out I passed all 19 retakes, I almost cried. I finally got to slap that “you won’t graduate” story back in the face.
-
-And then I wrote this as my graduation message:
-
-“In college, never fall in love with your teacher.”
-
----
-
-## Summary
-
-After all this, my conclusion is: learning English mostly depends on talent.
-
-And the best talent is… effort.
-
-> About the times I got beaten by teachers: I take responsibility too. I didn’t respect their dignity and acted like a jerk.  
-> This chapter is mostly nonsense—just for a laugh.
-
-Next: [My ex-girlfriends](https://github.com/byoungd/how-to-find-love)
-
----
-
-Prev: [Learning English with AI](../part-1/7-ai.md)<br>
-Next: [Week 1](../part-4/week-1.md)
+Perhaps that is the real purpose of looking back: not to rewrite the opening, but to stop an old story from writing the ending for us.
