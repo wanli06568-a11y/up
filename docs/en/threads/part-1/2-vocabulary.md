@@ -1,280 +1,290 @@
-# Vocabulary
-
-Source (中文): <a href="#/threads/part-1/2-vocabulary">单词篇</a>
-
-Vocabulary is the foundation of a language. If you try to “skip vocabulary” and jump straight to advanced materials, you’ll usually end up spending (more accurately: wasting) even more time later.
-
-The good news: vocabulary has a very obvious tipping point. Once your vocabulary reaches a certain size, English suddenly feels much easier—because context starts doing a lot of the work for you.
-
-Here’s a classic distribution chart:
-
-![Vocabulary distribution (OEC)](../../../assets/OCE%20Artboard@2x.png)
-
-> Original data: Oxford English Corpus (OEC). The author recreated the chart in Sketch.
-
-Rough takeaways:
-
-- ~1,000 words can get you through about **75%** of English content (at least at a surface level).
-- ~7,000 words is a big threshold (close to **90%** comprehension is not a fantasy).
-- The ROI of memorizing more and more words **goes down** over time.
-
-So let’s set a small goal: **7,000 words**.
-
-Break it down: 40 words/day → 175 days (in the “no forgetting at all” fantasy world).
-
+---
+title: "Vocabulary: From Familiarity to Retrieval in Real Tasks"
+description: Begin with a first-encounter baseline and lookup decisions, verify sense and collocation, then build usable vocabulary through unaided retrieval, error repair, and delayed transfer.
+updated: 2026-10-19
+sources_checked: 2026-09-02
 ---
 
-## Visual vs. Auditory Learners
+# Vocabulary: From Familiarity to Retrieval in Real Tasks
 
-Before you start expanding vocabulary, it helps to know how you naturally learn.
+When I first maintained this guide, I also liked collecting word lists. Every added page made progress look measurable. Yet language does not appear on demand merely because it has been saved. In an email, meeting, code review, or difficult explanation, the missing ability is often not having seen a word. It is choosing the right sense, collocation, register, and responsibility under limited time.
 
-### If you’re more visual
+`Delay`, `block`, and `risk`, for example, can all appear in a project update, but they do not describe the same state. Whether work has stopped, may be affected, or is simply later than planned changes who must act, when to escalate, and whether to wait. A grammatically correct sentence can still send collaboration toward the wrong decision.
 
-Visual learners remember words by “seeing” them—often by binding the word to an image or video. Some people can write a word a few times and it sticks.
+Vocabulary size is therefore not an inventory count. Vocabulary ability means recognising an expression in real input, deciding what it means here, retrieving it when needed, and allowing another person to understand, respond, or continue work.
 
-Visual memory is powerful, but there’s a trap:
+This chapter follows a traceable path: preserve a first encounter before lookup; decide what to skip, infer, check, learn, or escalate; verify sound, form, sense, collocation, register, and concept separately; then remove the source sentence and card and retest across topic, mode, and real task.
 
-You might remember the *picture*, not the *word*.
+## Chapter at a Glance
 
-That happens a lot with flashcard apps that show images: when you review the card, the picture feels familiar, so you think you’ve mastered the word. But in real life—without that exact picture—you can’t recall it.
+- Define the real task instead of substituting an isolated vocabulary total.
+- Preserve a first-encounter baseline and separate unknown words from unparsed sentences.
+- Decide whether to skip, infer, look up, learn, or professionally verify each unknown item.
+- Learn form, sound, current sense, collocation, grammatical behaviour, register, and concept separately.
+- Assess with unaided recall, timed retrieval, and real audience results, not familiarity after seeing an answer.
+- Let errors and use adjust spacing instead of treating fixed dates as a law of memory.
+- Verify AI-generated candidates with dictionaries, corpora, current documentation, and domain experts.
+- Track one topic, one first encounter, and one parallel task for fourteen days.
 
-My suggestion: use *abstract* visualization. Don’t tie “cat” to one specific cat photo; tie it to your own mental “cat concept”.
+## 1. Define the Task Before the Total
 
-For example, a word app might show you one specific cat. But what you really need is a flexible mental concept that can survive outside that exact picture:
+"Expand my vocabulary" does not say what to learn today. Begin with the conditions in which language must work:
 
-![Abstract vocabulary visualization](../../../assets/vocabulary-cat-concepts.svg)
+| Task | Vocabulary ability required | Observable result |
+| --- | --- | --- |
+| Listen in a meeting | Segment key chunks and responsibility in natural speech | Retell decisions, risks, owners, and dates |
+| Read documentation | Identify terms, actions, and limits in the current version | Run a minimum check and point to the source |
+| Explain aloud | Retrieve useful chunks under time pressure and repair | Listener retells the point without guessing from a script |
+| Write an email | Select accurate sense, collocation, and relational tone | Recipient knows what to do and when to reply |
+| Take an exam | Recognise or produce the range required by the task | Complete a new item rather than recognise an old card |
 
-The point: abstract visualization helps connect the word to the meaning, instead of the meaning to one random picture.
+One learner may read specialist terms yet fail to retrieve them in a meeting, or speak everyday English while confusing near-synonyms in a contract. Audience, material, time limit, permitted tools, and acceptance standard determine whether to test reception or production, breadth or precision.
 
----
+Use the [Vocabulary Evidence Card](../../templates/vocabulary-audit.md) to keep the task, first encounter, verification, retrieval, feedback, and delayed transfer together.
 
-### If you’re more auditory
+## 2. Preserve an Unpolished First Encounter
 
-Auditory learners have a natural advantage in language learning. Learning through a lot of listening is closer to how humans learn languages in the first place.
+Choose material close to the real task: a 150-300-word text, 60-90-second recording, email, API page, or short explanation. Record permitted captions, dictionary, translation, search, and AI. Then complete the first input or output without lookup.
 
-But many auditory learners still use “visual-style” methods, because that’s what school taught them.
+```markdown
+Material, version, and source:
+Real task and acceptance standard:
+First-encounter time and limit:
+Permitted support:
+My gist, relationships, and next step:
+Chunks I know with confidence:
+Sentence/timestamp where meaning stopped:
+How I handled unknowns then:
+```
 
-If you want to lean into auditory learning, you need one thing badly: **pronunciation basics**.
+Do not attribute every failure to vocabulary. Sound segmentation, syntactic scope, background knowledge, layout, or attention may be the real barrier. Preserve the original cloze answer, retelling, recording, or draft so later comparison can show what lookup actually changed.
 
-With decent pronunciation, you can:
+A first-encounter baseline is not a shame list. It asks which meaning arrived before tools, where guessing began, and which item truly blocked the task.
 
-- turn what you hear into correct spelling much more often
-- learn a lot from audio content you actually enjoy
+## 3. Make Five Decisions about Unknown Items
 
-So if this sounds like you, don’t skip the chapters on pronunciation and listening.
+Not every unknown word deserves long-term review. Choose among five actions:
 
-No matter your learning style, do yourself a favor: **listen to the pronunciation in a dictionary** when you learn a word.
+| Decision | Use when | Minimum record |
+| --- | --- | --- |
+| Skip | It does not affect gist, action, or safety and is one-off detail | Why it can wait |
+| Infer | Syntax, contrast, example, or context provides usable evidence | Candidate sense and confidence |
+| Quick lookup | It blocks current understanding but has low future value | Current sense and source |
+| Learn deliberately | It recurs, is task-critical, and will be used within two weeks | Sound, collocation, retrieval cue, and retest |
+| Verify professionally | Safety, law, medicine, finance, versioning, or business responsibility is involved | Primary definition, scope, and accountable owner |
 
-> A lot of tech videos in Chinese have painful pronunciation. Meanwhile, the internet is full of free English tutorials with great speakers, accurate pronunciation, and up-to-date content.
+Inference before lookup can train contextual judgment, but do not protect a "no dictionary" rule at the expense of safety or fact. Low-risk reading can carry uncertainty; high-risk action must return to current primary documentation or a qualified person.
 
-Ronnie has a good video on memorizing words:
+Select only five to eight high-value chunks for deliberate learning in one cycle. Their value comes from recurrence, task impact, connection to known language, and an imminent use, not from sounding advanced.
 
-- YouTube: https://www.youtube.com/watch?v=JuoqE2lpRUM  
-- Youku: http://v.youku.com/v_show/id_XMjgyMDQyMDgzNg==.html
+## 4. One Word Contains at Least Eight Questions
 
----
+`English = translation` records only one candidate correspondence. Fuller vocabulary knowledge includes:
 
-## Two Ways to Memorize Words
+| Dimension | Question | Example/evidence |
+| --- | --- | --- |
+| Form | How is it spelled, inflected, and derived? | `analyse → analysis → analytical` |
+| Sound | How does it appear through stress, phonemes, and connected speech? | Locate it without captions |
+| Current sense | What exactly does it mean in this sentence? | Explain this use instead of listing every definition |
+| Collocation/chunk | Which words normally complete the meaning with it? | `pose a risk to`, `meet a deadline` |
+| Grammar | What follows it, and what can serve as subject? | Original sentence plus a structural contrast |
+| Register/pragmatics | Do formality, politeness, stance, and identity fit? | `kids / children / minors` |
+| Concept/reference | Is the real object or institution actually equivalent? | Versioned definition or counterexample |
+| Retrieval condition | How fast does it arrive, and what cue is still required? | Timed speaking/writing without prompts |
 
-### 1) A small daily quota
+A word family is an estimation tool, not automatic knowledge. `help, helps, helped, helpful, helpless` may count as one family in some studies, while a learner may not know each derivative's sense, collocation, or tone. Abbreviations, API names, and fixed specialist expressions require current-version checks.
 
-Pros:
+Words rarely work alone. Prioritise combinations that perform tasks: collocations, chunks, morphological relations, sentence slots, and register contrasts. They reduce live assembly without becoming an entire memorised script; the combination must remain adaptable in a new sentence.
 
-- flexible and short (good for commuting, before sleep, small pockets of time)
-- low pressure
-- less frustration
-- good for core vocabulary
+## 5. The Relevant Sense Is Not Always Definition One
 
-Cons:
+Polysemy creates the feeling of "I knew every word but misunderstood the sentence." Preserve the source before comparing senses:
 
-Because the ROI drops and you often don’t get fast feedback, people quit around:
+```markdown
+Source sentence and location:
+My first inferred sense:
+Dictionary sense that fits this syntax and context:
+Supporting collocation, example, or counterexample:
+How a near-synonym changes responsibility, certainty, or tone:
+```
 
-- 800 words
-- 1,000 words
-- 1,001 words (yes, really)
+Do not paste the first translated gloss into every setting. Learner dictionaries are useful for common senses, pronunciation, grammar labels, collocations, and examples. Corpus evidence can show whether an expression occurs in comparable contexts. Technical terms should return to current official documentation, standards, or code.
 
-### 2) High-volume input
+Translation can support comparison, but one first-language word may cover several English concepts, while two institutional terms that look equivalent may differ in scope. "Close enough" is not an acceptance standard for high-risk text.
 
-Learn a lot quickly and review quickly. The forgetting rate is higher, but the sheer volume wins.
+## 6. Receptive Vocabulary Is Not Productive Vocabulary
 
-Example:
+Receptive reading means understanding after seeing; receptive listening means segmenting and understanding when sound arrives. Productive speaking and writing require retrieval before the answer is displayed, together with form, collocation, and register.
 
-- 20 words/day → ~600 words/month; if you retain 80% long-term → 480 words
-- 100 words/day → ~3,000 words/month; even if you retain 30% → 900 words
+Using matched receptive and productive translation tests with L2 learners, Webb (2008) reported larger receptive than productive vocabulary sizes. Under fuller scoring, the gap increased in lower-frequency bands. The finding warns against turning recognition into a claim of use, while the size of any gap still depends on test direction, scoring, participants, and frequency range.
 
-This tends to work well in the **1,000–7,000** vocabulary stage.
+Move a chunk from reception toward production through four steps:
 
-> Once you’re over ~7,000 words, you should be able to learn many new words through word formation and context. This guide covers that later. Pick what fits your habits.
+1. Explain its current sense in the source sentence.
+2. Close the source and retrieve it from a situational cue.
+3. Keep the function while changing people, time, topic, or tone.
+4. Use it in an email, meeting, explanation, code review, or conversation and observe the response.
 
----
+Reproducing only the training sentence is not transfer. Conveying the concept with an awkward collocation means meaning arrived but form still needs repair. Locate the failed dimension instead of calling every failure "not memorised."
 
-## Practical Tips That Actually Help
+## 7. Interpret Coverage Numbers Carefully
 
-- repeat, repeat, repeat (nothing fancy, just reps)
-- sticky notes (put words where you’ll see them)
-- visual marks (draw a tiny doodle)
-- collocations + making your own sentences (context helps memory and usage)
-- read out loud (yes, like those “Crazy English” days)
-- make some words personally meaningful (ML, programming, your girlfriend/boyfriend… whatever matters to you)
+Earlier editions said that 1,000 words yield 75% understanding and 7,000 nearly 90%. Such unconditional equations mix counting units, corpora, modes, and definitions of understanding, so they are not retained.
 
----
+Vocabulary research often discusses 95% and 98% coverage of running words. As an intuition, 95% leaves about one unknown in twenty and 98% about one in fifty. Actual difficulty still changes when unknowns cluster at decisive points, background is unfamiliar, or syntax is dense.
 
-## The Forgetting Curve (Ebbinghaus)
+Schmitt, Jiang, and Grabe (2011) asked 661 participants from eight countries to read two texts and complete vocabulary and comprehension measures. The relationship between known-word percentage and comprehension was relatively linear, without evidence of a sharp threshold; the authors judged 98% a more reasonable target for academic texts. That group relationship is not an individual passport.
 
-There’s short-term memory and long-term memory. “Knowing a word” usually means it has moved into long-term memory.
+Using 1,000-word-family lists built from the British National Corpus and assuming 98% coverage for unassisted comprehension, Nation (2006) estimated roughly 8,000-9,000 word families for written text and 6,000-7,000 for spoken text. The estimates depend on family definition, corpus, proper-noun treatment, and the comprehension assumption. They are not universal goals for every learner, domain, or task.
 
-The forgetting curve describes how we forget over time. It was first proposed by psychologist Hermann Ebbinghaus through experiments with meaningless letter combinations.
+Coverage is useful for choosing material. When unknowns are dense and task-critical, reduce difficulty, shorten the source, or build background. When most unknowns do not affect the line, continue reading instead of turning every page into a word list.
 
-Wikipedia: https://zh.wikipedia.org/wiki/%E9%81%97%E5%BF%98%E6%9B%B2%E7%BA%BF
+## 8. A Strong Retrieval Card Tests One Decision
 
-![Forgetting curve](https://upload.wikimedia.org/wikipedia/commons/4/4e/ForgettingCurve.svg)
+The front should demand recall rather than another reading of the answer:
 
-The basic idea: forgetting is fast at the beginning and slows down later.
+```text
+Context: a project dependency may affect the schedule; express that it creates risk.
+Gap: The dependency may ____ a risk to the schedule.
+```
 
-A common review schedule looks like this:
+The back preserves:
 
-- 5 minutes later
-- 20–30 minutes later
-- 12 hours later
-- 1 day later
-- 2 days later
-- 4 days later
-- 7 days later
-- 15 days later
+- `pose a risk to` and a reliable source location;
+- current sense, pronunciation, part of speech, and register;
+- a second situation written by the learner;
+- one confusable expression and the difference;
+- the prompt to remove at the next retest.
 
-Try this for two weeks and you’ll probably feel the difference.
+Long cards turn review into rereading. If one failure combines pronunciation, sense, and collocation, separate the cues. If a card succeeds only with its original sentence, replace it with a cue closer to the real task.
 
-### Think of a word as a simple key-value pair (at the beginning)
+Bidirectional translation cards can be a beginning, not the final condition. Real retrieval moves from intention, situation, or object toward expression rather than forever beginning with another-language label.
 
-`English word` → `Chinese meaning (often an array)`
+## 9. Let Performance Control the Interval
 
-You can start with a simple cycle:
+Forgetting is real, but no fixed "memory-curve calendar" fits every item and learner. Set initial checks for the same day, day 1, days 3-7, day 14, and day 30, then adjust from evidence:
 
-- 5 minutes: learn 10 new words
-- 30 minutes later: review those 10 (5 min), then learn 10 more (5 min)
-- before sleep (~12 hours later): review the 20 words (~15 min)
+- fast accurate recall plus new use: lengthen the interval;
+- effortful success: keep or slightly lengthen it;
+- repeated sense/near-synonym confusion: add contrast and counterexample;
+- understood in text but missed in speech: add a no-text audio cue;
+- correct card but failed real task: pause new items and use timed output;
+- repeated failure: split the card, reduce volume, or repair concept, sound, and background;
+- no longer relevant to the task: archive it instead of reviewing forever because of sunk cost.
 
-> Those are short-term-memory cycles. Adjust the exact timings to your life.
+Webb, Yanagisawa, and Uchihara's (2020) meta-analysis included 100 effect sizes from 22 studies of flashcards, word lists, writing, and fill-in-the-blank activities. The abstract reports average immediate meaning/form recall gains of 60.1%/58.5%, falling to 39.4%/25.1% on delayed tests, with wide variation among activities. It supports deliberate learning and expected forgetting, not a guaranteed deck, interval, or individual outcome.
 
-Then hit the “real” checkpoints:
+[Anki](https://apps.ankiweb.net/) can schedule intervals; it is not the method itself. Card count, streak, and mature-item totals deserve attention only when they change a decision to continue, split, transfer, or stop.
 
-- 1 day, 2 days, 4 days, 7 days, 15 days
+## 10. Let the Error Choose the Next Practice
 
----
+Classify each weak result before adding more items:
 
-## A Real Example (Old-school but Effective)
+| Error | Likely gap | Smallest next repair |
+| --- | --- | --- |
+| Form not recognised | Spelling, derivation, or inflection | Mark root/part of speech and use it in a new sentence |
+| Sound not recognised | Phoneme, stress, linking, or boundary | Compare a short clip, then remove text |
+| Wrong sense | First-definition dependence or ignored context | Contrast senses and add a counterexample |
+| Awkward collocation | Isolated-word learning | Learn a whole chunk and inspect comparable corpus use |
+| Wrong register | Relationship, formality, or stance ignored | Write the same intention for two audiences |
+| Retrieval too slow | Cue does not match real intention | Give a 3-5-second situational prompt and answer aloud |
+| Transfer failure | Dependence on source sentence, topic, or mode | Change topic, sound/text mode, or task and produce again |
 
-In high school, our textbooks were delivered in a batch of 10. I spent about three class periods scanning all vocabulary lists, and copied down everything I couldn’t remember.
+Ask a real reader or listener to retell the received meaning before discussing whether it sounds natural. Separate necessary repairs that change fact or relationship, acceptable variation, register choices, and individual style. More native-like is not automatically more suitable for the author and situation.
 
-That gave me a personal word notebook.
+## 11. AI Generates Candidates, Not Lexical Authority
 
-When I reviewed:
+AI can produce contextual cloze items, compare near-synonyms, simulate audiences, offer counterexamples, classify errors, and generate parallel tasks. Use it in this order:
 
-- if I was sure a word had stuck, I crossed it out
-- I also added small marks: triangle = interesting, circle = saw it in a book/video recently, ear = pronunciation feels shaky, etc.
+1. Preserve the first encounter and your own candidate.
+2. Ask what layer of meaning each suggestion changes.
+3. Request uncertainty, regional difference, and register limits.
+4. Verify against a dictionary, corpus, current documentation, or domain expert.
+5. Close AI and retrieve under time in a changed context.
+6. Record acceptance, rejection, and reason.
 
-![word notebook](../../../assets/单词本示意图.jpg)
+Models can invent collocations, etymologies, quotations, and outdated technical definitions. Do not upload customer data, unpublished documents, exam answers, or unauthorised third-party material. Current primary sources and named owners decide high-risk terminology.
 
-I’ve kept this habit since Dec 2010. I don’t use paper anymore—I sync it in a dictionary app and review during lunch breaks or after workouts.
+## 12. Technical Word Lists Are Indexes, Not Courses
 
-When your word list grows to 500+ words, you either review more aggressively, or… keep multiple dictionaries and flip them constantly.
+The repository lists begin from tasks rather than daily quotas:
 
-![dictionary](../../../assets/dict.JPG)
+| List | Task entry |
+| --- | --- |
+| [Common](../word-list/Common.md) | Everyday and cross-topic work |
+| [Prompt](../word-list/Prompt.md) | AI tasks, constraints, and acceptance language |
+| [Vibe Coding](../word-list/VibeCoding.md) | Agent collaboration and code review |
+| [JavaScript](../word-list/JavaScript.md) | Browser, front end, and asynchronous flows |
+| [Python](../word-list/Python.md) | Data, automation, and scripting |
+| [Go](../word-list/Go.md) | Services, concurrency, and deployment |
+| [Java](../word-list/Java.md) | JVM and enterprise systems |
+| [PHP](../word-list/PHP.md) | Web back ends and legacy maintenance |
+| [Rust](../word-list/Rust.md) | Ownership, performance, and systems programming |
+| [Swift](../word-list/Swift.md) | Apple platforms and application development |
 
-> Big paper dictionaries are a pain to carry. Use any dictionary app that syncs across devices.  
-> The two dictionaries in the photo served me for years and are already falling apart.
+Choose five to eight chunks from the current task and record documentation version and source. Produce once without the list and retest in a parallel task a week later. Languages, frameworks, and products change; a list cannot replace official documentation or current runtime evidence.
 
----
+## 13. A Thirty-Five-Minute Session
 
-## Use a Cloud Word List
+1. Five minutes: state the task, audience, material, and acceptance standard.
+2. Seven minutes: complete a no-lookup first encounter or unaided output.
+3. Six minutes: decide what to skip, infer, look up, learn, or verify.
+4. Seven minutes: check sense, sound, collocation, and register for five to eight chunks.
+5. Seven minutes: close the source and speak or write in a changed situation.
+6. Three minutes: record one main error and one cue to remove next.
 
-The purpose is simple: **collect unknown words in one place so you can review them anytime**.
+Completion matters more than volume. On a low-capacity day, preserve one first encounter, one high-value chunk, and one unaided sentence. Do not spend all the time maintaining a card system instead of using language.
 
-Wherever you meet a new word, save it into a word list that syncs across devices. Otherwise, where will you find those “new words” later?
+## 14. A Fourteen-Day Vocabulary Experiment
 
-I won’t advertise any specific dictionary app. Any decent cross-platform one works.
+| Day | Action | Evidence |
+| --- | --- | --- |
+| 1 | Choose a real topic/task and complete a first encounter | Raw understanding/output, conditions, and block |
+| 2 | Make five decisions about unknown items | Skip, infer, lookup, learn, and verify queue |
+| 3 | Verify eight dimensions of valuable chunks | Sense, sound, collocation, register, and sources |
+| 4 | Build cues that test one decision | Cards and scaffold-removal condition |
+| 5 | Complete cloze, retelling, or short writing without prompts | Retrieval time and error type |
+| 6 | Change one mode across listening, reading, speaking, and writing | Receptive/productive gap |
+| 7 | Test with real material or audience | Understanding, response, and repair |
+| 8 | Archive low-value items and keep five to eight | Selection reason and capacity change |
+| 9 | Contrast a near-synonym, counterexample, or common misuse | Meaning boundary and rejection reason |
+| 10 | Keep topic, change audience and register | Relationship and tone transfer |
+| 11 | Keep task, change topic | Chunk-structure transfer |
+| 12 | Let AI/a peer propose candidates, then verify | Source checks and uptake record |
+| 13 | Deliver under time pressure | Email, recording, explanation, or review result |
+| 14 | Close old cards/prompts and complete a parallel task | Evidence to keep, split, archive, or move on |
 
-![word list app](../../../assets/word-list-app.png)
+Fourteen days is not a vocabulary-fluency deadline. It asks whether, after the source sentence, card, and immediate prompt leave, you can recognise, choose, and retrieve the chunks in a changed task.
 
-Some words… you can review for seven years and still hesitate. That’s normal.
+## 15. Evidence That Vocabulary Is Becoming Ability
 
----
+- A first encounter preserves the line instead of letting every unknown item capture attention.
+- You can decide whether to skip, infer, look up, learn, or professionally verify an item.
+- You can explain current sense, source, collocation, register, and counterexample instead of only a translation.
+- You segment the item in natural speech and recognise its written form.
+- You retrieve it under time after the answer is closed.
+- A real reader/listener receives the intended meaning, relationship, and next step.
+- An error enters the next practice instead of merely increasing card volume.
+- Retrieval transfers across topic, audience, mode, or task.
+- You can archive what is no longer useful and return attention to current life.
 
-## Treat Words Like “Objects” (Optional)
+Vocabulary growth does not always make a list longer. Sometimes it means knowing which unknown can wait while reading, which term must be precise in a meeting, and why a more impressive phrase is wrong for this relationship. Unknowns no longer stop you all at once, and familiarity no longer hides failed retrieval.
 
-> If “OOP” means nothing to you, feel free to skip this section.
+## Sources and Boundaries
 
-Many words are built from “base words” using predictable rules. That’s a bit like inheritance/polymorphism in OOP.
+- [Nation (2006), How Large a Vocabulary Is Needed for Reading and Listening?](https://doi.org/10.3138/cmlr.63.1.59): uses British National Corpus word-family lists and a 98% coverage assumption to estimate unassisted comprehension needs; counting unit, corpus, proper-noun treatment, and comprehension criterion limit transfer.
+- [Schmitt, Jiang & Grabe (2011), The Percentage of Words Known in a Text and Reading Comprehension](https://doi.org/10.1111/j.1540-4781.2011.01146.x): a 661-participant, eight-country study found a relatively linear coverage-comprehension relationship without a clear sudden threshold; it does not guarantee individual or cross-genre outcomes.
+- [Webb (2008), Receptive and Productive Vocabulary Sizes of L2 Learners](https://doi.org/10.1017/S0272263108080042): compares receptive/productive knowledge through matched translation tests; direction, scoring, frequency bands, and participant conditions limit interpretation.
+- [Webb, Yanagisawa & Uchihara (2020), How Effective Are Intentional Vocabulary-Learning Activities?](https://doi.org/10.1111/modl.12671): a meta-analysis of 100 effect sizes from 22 studies reports substantial immediate/delayed and between-activity variation; averages do not guarantee a fixed schedule or individual result.
+- [Pashler et al. (2008), Learning Styles](https://doi.org/10.1111/j.1539-6053.2009.01038.x): the review found no adequate evidence base for matching instruction to visual/auditory learner labels while cautioning that untested variants cannot all be declared false.
+- Senses, technical terms, corpus frequencies, products, and dictionaries change. Important tasks should return to current versions, primary sources, real audiences, and named accountable owners.
 
-The idea: learn the *rules of expansion*, instead of memorizing every derived form as a brand-new word.
+Related entry points: [Grammar](grammar.md) | [Listening](3-listening.md) | [Reading](4-reading.md) | [Speaking](5-speaking.md) | [Writing](6-writing.md) | [Learning English with AI](7-ai.md) | [Vocabulary Evidence Card](../../templates/vocabulary-audit.md) | [Evidence Chain Template](../../templates/evidence-chain.md)
 
-> “Learning words” is not the same thing as “brute-force memorization”. You can do better than that.
+## Closing: Let the Word Arrive When Needed
 
----
+What remains in memory is often not the first line of a dictionary entry but the moment you needed the word: explaining a risk to a colleague, asking a stranger for help, apologising to someone close, or finally entering a page you once had to avoid.
 
-## Anki
+A list can preserve order; it cannot live for you. A word becomes ability only after entering sound, sentence, relationship, and consequence. Nor must it remain forever. Some words finish one piece of work and can be archived; others, used repeatedly, slowly grow into your own voice.
 
-[Anki](https://apps.ankiweb.net/) is a multi-platform flashcard app. It’s highly customizable and makes spaced repetition easier.
-
-To help with high-frequency vocabulary, this repo shares a “Macmillan 7,000” Anki deck (thanks to Simon for improvements), with:
-
-- phonetic symbols
-- example sentences
-- pictures
-- sentence translations
-
-Link: https://pan.baidu.com/s/1i5OLIIT  
-Password: jm4k
-
-Because the deck is old, some mobile platforms may have style compatibility issues. Suggested updates:
-
-Updates include:
-
-- adjusted card styles for mobile (font size, layout, fields…)
-- download media locally via the [Localize Media](https://ankiweb.net/shared/info/1293255374) plugin
-
----
-
-## Using AI for Vocabulary Practice
-
-The core principle still holds in 2026: **learn words in context**, not as “word = Chinese meaning”.
-
-What’s different is that now you have conversational AI (like ChatGPT) that can generate context and practice fast. But memory still can’t be outsourced—you have to do the reps.
-
-Ways to blend AI into your workflow:
-
-- **Natural examples and short passages**: give AI today’s 10–20 words and ask for a short story/dialogue using them, plus 3–5 comprehension questions.
-- **Synonyms, collocations, and confusing pairs**: ask for common collocations, synonyms, near-misses, and then request cloze questions or error-correction tasks with explanations.
-- **Mini quizzes + review**: send the words you keep forgetting and ask for a 10-minute quiz (sentence making, collocation choice, error correction). After you answer, ask it to summarize your recurring mistakes.
-
-If you want to use AI across listening, speaking, reading, and writing, see the English-learning AI chapter:
-
-- English: [Learning English with AI](7-ai.md)
-- Chinese: <a href="#/threads/part-1/7-ai">用 AI 学英语</a>
-
----
-
-## Recommended Vocabulary Books
-
-- [![英语常用词疑难用法手册](https://img1.doubanio.com/lpic/s6207668.jpg)](https://book.douban.com/subject/5038844/)
-- [![17天搞定GRE单词](https://img3.doubanio.com/lpic/s5759730.jpg)](https://book.douban.com/subject/1803504/)
-- [![Merriam-Webster's Vocabulary Builder](https://img3.doubanio.com/lpic/s4339900.jpg)](https://book.douban.com/subject/4759840/)
-
-“Merriam-Webster’s Vocabulary Builder” is often recommended for people who already have a solid base (around 7,000 words), especially for TOEFL/GRE prep.
-
-People think it’s just about roots and affixes, but the real value is the way it teaches words through context:
-
-- English definition
-- example sentence
-- the author’s personal explanation
-
-It also includes a lot of practice questions—not just “what does it mean”, but “how is it used”, and “how is it different from similar-looking words”.
-
-If you already have a decent vocabulary base, don’t miss it.
-
-> Most of the time, memorizing words doesn’t need to feel intense. Skim them, meet them again, meet them again… “new words” become familiar words.
-
----
-
-Prev: [Understanding](1-understanding.md)  
-Next: [Listening](3-listening.md)
+You do not need to own an entire language at once. Begin with a few words you truly need and let them return after the answer is hidden. They do not need to prove that you are clever. At the place where meaning would otherwise break, they only need to help you take one more step toward the world.

@@ -1,390 +1,218 @@
-# Learning English with AI
-
-Source (中文): <a href="#/threads/part-1/7-ai">用 AI 学英语</a>
-
-> Updated with official-source product information as of `2026-06-29`.
->
-> For the broader method of using AI to learn programming, writing, exams, industry research, and work output, start with [Learning Anything with AI](../part-3/1-ai-learning.md). This chapter focuses on English learning.
-
-AI is no longer just a “smart dictionary” or a quick rewrite tool.
-
-If you use it well, it can help you build a repeatable English-learning system: one that gives you input, forces output, corrects mistakes, asks follow-up questions, and helps you review.
-
-If I had to recommend one main AI workflow right now, I would lean toward **Gemini**.
-
-Not because it is automatically the best at everything, but because Google now has a more complete learning stack around it: **Guided Learning, quizzes, flashcards, Canvas, Gems, and Gemini Live**. For English learners, that matters more than raw “answer quality” alone.
-
+---
+title: "Learning English with AI: From Practice to Real Delivery"
+description: Use English baselines, authentic material, guided practice, four-skill feedback, and delayed retesting instead of outsourcing English ability to one AI product.
+updated: 2026-10-15
+sources_checked: 2026-10-15
+source_review_interval: 30
 ---
 
-## 0) Why I Would Prioritize Gemini Right Now
+# Learning English with AI: From Practice to Real Delivery
 
-Based on Google’s official help pages and product updates, Gemini currently stands out for English learning for five main reasons:
+AI can shorten the time needed to find material, create exercises, and receive first-pass feedback. It cannot perform your retrieval, listening discrimination, articulatory movement, judgment, or real communication. This chapter asks one question: **how can AI enter English practice without becoming a substitute for English ability?**
 
-1. **It now pushes guided learning, not just quick answers**
-   - Google introduced `Guided Learning` on `2025-08-06` and explicitly framed it as a way to help people learn through questions, step-by-step breakdowns, visuals, videos, and quizzes.
-   - That is exactly what language learners need: not just “the answer,” but structured interaction.
+The site-wide loop of problem, baseline, practice, delivery, verification, and review is in [Learning Anything with AI](../part-3/1-ai-learning.md). This page keeps only the English-specific work.
 
-2. **It can turn materials into quizzes, flashcards, and study guides**
-   - This makes it easy to transform articles, transcripts, notes, or videos into active review.
-   - In practice, that means your input materials can become reusable learning assets instead of one-off consumption.
+## Quick Overview
 
-3. **Canvas is useful for writing, rewriting, and practice materials**
-   - You can keep editing the same document, adjust tone or length, and turn drafts into study materials.
-   - That makes it especially useful for email writing, summaries, scripts, and revision practice.
+- state the real situation and acceptance criteria before deciding where AI enters;
+- keep an unaided baseline, feedback, and delayed retest for each skill;
+- use AI for questions, hints, and parallel exercises without outsourcing retrieval or expression;
+- write the result into the [AI Learning Log](../../templates/ai-learning-log.md) and [90-Day Cycle Map](../../templates/90-day-cycle.md).
 
-4. **Gemini Live is genuinely useful for speaking practice**
-   - Google’s help pages explicitly describe Live as a natural spoken back-and-forth mode with interruption support, plus camera and screen sharing.
-   - That makes it much more useful than plain text chat if your priority is speaking.
+> Product features were last checked on **24 August 2026**. Study, project, voice, and writing features vary by region, language, device, account, and plan; reopen the official pages and verify before use.
 
-5. **You can turn it into a course, not just a chat**
-   - `Gems` let you create a reusable custom tutor with stable instructions.
-   - But two official limitations matter:
-     - the premade `Learning coach` Gem does **not currently support language learning**
-     - `Gems` cannot currently be used inside `Gemini Live`
-   - So the best approach is not “use the premade learning coach,” but “build your own English Coach Gem and pair it with Live + Canvas.”
+## Define “Can Use English”
 
-Short version:
+Do not start with hours or word counts. Write one real task first:
 
-> The better way to learn English with AI now is not “ask AI for answers,” but “configure AI into a system that teaches, corrects, and reviews with you.”
+```text
+Scenario: I need to introduce an AI project in an English online meeting.
+Audience: Three overseas colleagues who do not know the technical details.
+Definition of done: Explain the problem, proposal, risks, and next action in three minutes; handle two follow-up questions; send a follow-up email under 150 words.
+Deadline: 2026-09-30.
+Evidence: Raw recording, transcript, question log, email draft, and revision.
+```
 
----
+A useful goal contains a situation, audience, action, acceptance criteria, deadline, and evidence location. AI can help you practise and check; it cannot define completion for you.
 
-## 1) Build Your Own Gemini English Course First
+## 1. Save a Baseline Before AI Enters
 
-If you only do one thing after reading this chapter, do this.
+Do not ask AI to translate, edit, or hint on the first attempt. Complete four 10–15 minute tasks on one topic:
 
-Don’t start with:
+1. **Listening**: hear a two-to-four-minute authentic clip and write the gist, three details, and one uncertainty;
+2. **Reading**: read one page and write a five-sentence summary plus one counterexample;
+3. **Speaking**: speak for two uninterrupted minutes and save the raw recording;
+4. **Writing**: write a 120–180-word work email without a dictionary or AI rewrite.
 
-> Help me learn English.
+Score task completion, comprehensibility, accuracy and range, organisation and fluency, and revision and transfer from 0 to 2. Store samples, reasons, and error evidence in the [English Diagnostic](../../templates/english-diagnostic.md). Without a baseline, you cannot tell whether AI improved ability or merely polished a product.
 
-That prompt is too vague. You will usually get correct but generic advice.
+## Four Skills and Their Evidence Cards
 
-A better approach is to create your own custom `Gem` and make it your English coach.
+| Skill | AI may assist with | Evidence kept after closing AI |
+| --- | --- | --- |
+| Listening | Give one clue, mark timestamps, or create a parallel follow-up | First pass, six-layer error map, scaffold ladder, meaning reconstruction, and delayed transfer in the [Listening Evidence Card](../../templates/listening-audit.md) |
+| Reading | Compare paragraph marks, ask for source locations, and pose parallel-source questions | First pass, barrier map, claims/evidence, technical facts, and inference boundary in the [Reading Evidence Card](../../templates/reading-evidence.md) |
+| Speaking | Mark unclear segments and simulate follow-up questions | Raw recording, listener retelling, and repair in the [Speaking Evidence Card](../../templates/speaking-evidence.md) |
+| Writing | Flag layered issues in facts, structure, language, and tone | Draft, four revision passes, and reader feedback in the [Writing Evidence Card](../../templates/writing-evidence.md) |
 
-You can use something like this as your instructions:
+Cards are not extra homework. They turn one session into a sample you can revisit. If only AI comments remain, without your first take and transfer task, you cannot tell whether ability changed.
 
-> You are my English Level-Up Coach.  
-> My native language is Chinese. My current English level is around B1-B2. My goal is to improve speaking, listening, reading, and writing over the next 12 weeks, with special focus on spoken English and workplace communication.  
->  
-> Please follow these rules:  
-> 1) Use English by default, but use brief Chinese when explaining hard grammar or subtle meaning differences.  
-> 2) Keep each lesson around 20-30 minutes.  
-> 3) Each lesson must include warm-up, input, output, correction, and review.  
-> 4) Prioritize frequent, high-value mistakes instead of minor perfectionism.  
-> 5) Give me one clear goal per lesson.  
-> 6) Track my recurring mistakes and review them weekly.  
-> 7) If I say “start today’s lesson,” begin immediately.  
-> 8) If I upload an article, resume, email, meeting note, or transcript, turn it into learning material.  
-> 9) Push me to produce language instead of doing all the work for me.  
-> 10) At the end of each lesson, summarize useful expressions, key mistakes, homework, and the focus of the next lesson.
+Grammar is a structural layer shared by all four skills. AI may place an original beside parallel examples, ask about meaning differences, and generate variation, but feedback must distinguish **error, ambiguity, register choice, and style preference** and state confidence. Preserve your own decision in the [Grammar Evidence Card](../../templates/grammar-evidence.md). A smoother model sentence does not prove that the original was wrong.
 
-If you already know your goal, add it directly:
+## 2. Use One Task Card Every Time
 
-- IELTS speaking
-- job interviews
-- email writing
-- workplace English
-- technical English
+```markdown
+# English Task Card
 
-In practice, **custom English Coach Gem + Gemini Live + Canvas** is the most useful Gemini setup for English learning right now.
+Date: YYYY-MM-DD
+Real situation:
+Action: understand / read / say / write / ask / revise
+Acceptance criteria:
+Material and source:
+Unaided baseline location:
+AI may: prompt / question / correct / generate parallel tasks
+AI may not: answer for me / rewrite a whole section / invent a source
+Output location:
+Feedback evidence:
+Recurring error:
+Smallest next task:
+```
 
----
+At the end choose one or two errors that most affect communication and do a parallel task. Do not collect fifteen suggestions without using them again.
 
-## 2) Speaking & Pronunciation: Use Gemini Live First
+## 3. Vocabulary: From Familiarity to Retrieval in Real Tasks
 
-Speaking is one of the easiest areas to improve with AI because it benefits so much from interaction, repetition, and immediate correction.
+Choose 5–8 high-value chunks from authentic material each week. Preserve a no-lookup first encounter, then save current sense, pronunciation, part of speech, collocations, the original sentence, your own sentence, a close alternative, and one retrieval attempt. Decide whether each unknown should be skipped, inferred, looked up, learned deliberately, or professionally verified.
 
-If you have access to Gemini Live, I would prioritize it over typing when practicing spoken English.
+AI can generate cloze, correction, and substitution tasks, but check meanings, collocations, and examples against a learner dictionary or real corpus. Schedule four contacts: understand and read aloud on day one, retrieve and make a sentence on day two, use it in speech or email within a week, and transfer it to a new situation after two weeks.
 
-Why? Because the moment you have to speak out loud, your real problems show up:
+The acceptance test is not “how many I saved”. It is whether you can use the chunk correctly without a cue and be understood.
 
-- your sentences are too long
-- you freeze on common expressions
-- your pronunciation is unstable
-- your tone sounds unnatural
-- you struggle when someone follows up
+## 4. Listening: Split “I Didn’t Understand”
 
-Here is a useful prompt:
+First write only the gist and certain details without subtitles. Then label the problem:
 
-> Please act as my speaking coach. We will have a natural English conversation for 15 minutes. Keep your turns short. Interrupt me only if I become hard to understand. After every 3 rounds, give me brief feedback on grammar, word choice, and pronunciation priorities.
+- unknown vocabulary;
+- known words hidden by linking, reduction, or stress;
+- sentence structure not parsed;
+- insufficient background knowledge;
+- speed, accent, or temporary attention failure.
 
-For workplace speaking:
+Ask AI for one small clue, then replay 10–20 seconds. Do not request a full translation immediately. Close the subtitles, paraphrase the clip, and record what remains uncertain.
 
-> Let’s simulate a weekly sync meeting in English. You are my teammate. Ask me one question at a time about project progress, blockers, next steps, and risks. After each answer, tell me how to make it sound more natural and concise.
+Give each pass a different question: preserve the no-caption first pass, locate timestamp and barrier layer, open only necessary transcript support, close the text and reconstruct gist, relationship, and next step, then remove support on parallel material after three to seven days. Use the [Listening Evidence Card](../../templates/listening-audit.md) for the complete record. AI can offer transcript candidates; it cannot overrule raw audio and a reliable source.
 
-For visual description practice:
+## 5. Speaking and Pronunciation: Optimise Communication
 
-> I will show you a screen, slide, chart, or object. Ask me to describe what I see in English, then help me improve clarity, vocabulary, and structure.
+A 12-minute session:
 
-The point is not to “chat for fun.” The point is to force output, isolate problems, and repeat better versions.
+1. explain a real problem for two minutes without a script;
+2. ask AI to record only unclear points, broken logic, and places that need clarification;
+3. choose one high-impact pronunciation or chunk issue and repeat it slowly five times;
+4. answer an unprepared follow-up question;
+5. save the raw and retest recordings.
 
----
+Speech recognition is a clue, not proof of natural pronunciation. The stronger test is whether a trustworthy listener understands once, whether repetition is needed, and whether you can continue in a new question.
 
-## 3) Listening: Turn Materials Into Review
+Choose a reference variety related to the real audience, then add other English varieties gradually. Do not let a model turn "sounds different" automatically into "wrong". Use the [Speaking Evidence Card](../../templates/speaking-evidence.md) to preserve device, listener familiarity, recognition errors, listener retelling, and interaction repair, separating accentedness, actual misunderstanding, and comprehension effort.
 
-A big listening problem is that many learners “study” something once and leave nothing behind.
+## 6. Reading: Train the Evidence Chain
 
-Gemini’s current quiz / flashcard / study-guide tools are valuable because they let you convert input into active review.
+Before AI, mark claims, evidence, definitions, examples, and unknowns. Then ask AI to compare your marks and quote the original locations. Do not accept “the article basically says”.
 
-For example:
+After closing the material answer: What problem is the author solving? Which evidence supports each conclusion? What is a counterexample? What survives if the setting changes to your work? This is how reading transfers into judgment.
 
-> Create a quiz about this material. Start with 5 easy comprehension questions, then 5 harder inference questions. After each answer, explain why.
+## 7. Writing: Keep the Author’s Hand
 
-Or:
+Write the first draft yourself. Ask AI for layered feedback on facts and sources, task completion, structure and logic, language errors, tone, and privacy risk. Fix only the three changes that matter most and explain each one in your own words.
 
-> Create flashcards about this material. Focus on high-frequency vocabulary, collocations, and sentence patterns that are useful in real conversations, not rare difficult words.
+Do not accept a whole rewritten paragraph by default. Keep the original, suggestions, final version, and a new similar email. If the final text is polished but you cannot explain the important edits, the ability is not stable yet.
 
-For intensive listening:
+Use the [Writing Evidence Card](../../templates/writing-evidence.md) to record the fact and responsibility ledger, translation meaning changes, reasons for accepting or rejecting feedback, tool version, required disclosure, and a parallel task after closing the tool. A model may assist editing; it cannot become a hidden author. Fluency does not replace sources, permission, authorship, or final accountability.
 
-> Turn this transcript into a listening lesson for me. Split it into short chunks. Hide the full text first. Let me transcribe one chunk at a time, then compare my answer with the original and explain the key misses.
+## 8. Choose Tools Without Confusing Functions
 
-For intermediate and advanced learners, listening practice is stronger when it has three layers:
+| Task | Useful capability | Verify yourself |
+| --- | --- | --- |
+| Guided learning | Study mode, layered questions, quizzes | Does it let you answer first? Are explanations sourced? |
+| Long-running context | Project spaces and permitted files | Permissions, retention, memory scope, export |
+| Learning from sources | File questions, NotebookLM | Original page, rights, privacy, material boundaries |
+| Online research | Citation-enabled search | Open the primary page and check the claim |
+| Writing feedback | Language models and writing tools | Keep the draft and understand each change |
+| Speaking practice | Voice conversations | Recognition is not natural pronunciation; features change |
 
-1. understand the content
-2. extract reusable expressions
-3. retell it out loud without looking
+This is not a ranking. Check upload permission, exportability, reviewability, and total cost first. Store goals, samples, errors, and next actions in [Learning State](../../templates/learning-state.md) or [AI Learning Log](../../templates/ai-learning-log.md). Platform memory is only a convenience layer.
 
-That is where listening starts feeding speaking and writing instead of staying isolated.
+## A Multimodal Exercise: From Seeing to Explaining
 
----
+Images, speech, and text offer more ways to practise. They also make it more important to locate where understanding breaks down. The following is an original exercise of about twenty minutes; adjust it to your capacity and test its usefulness yourself.
 
-## 4) Reading: Use AI as a Guide, Not a Replacement
+1. **Explain first:** choose an English chart or set of instructions you have permission to use, without private information. Without translation, speak for one minute: what it shows, which figures or steps matter, and what remains unclear. Save the original image and recording.
+2. **Separate two kinds of error:** ask AI to locate parts of the image that support or contradict your account, then check its transcript against your recording. A misread decimal point or a mistranscribed accent is initially a tool error. A misunderstanding of the comparison or an incorrect meaning belongs in your learning record.
+3. **Repair one important point:** choose one sentence pattern or relationship affecting understanding and explain it again. Ask AI for a follow-up question, answer first, then inspect feedback. Keep your recording instead of replacing it with a polished script.
+4. **Change the material and remove support:** three to seven days later, use a similar chart with different figures and speak without the old script. If useful, ask a real listener to restate your meaning. Check their understanding, your ability to clarify, and the accuracy of consequential facts.
 
-One of the worst habits is asking AI to translate the whole article the moment reading gets difficult.
+Record the image page or region, audio timestamps, model, and date. Real-time conversation can support practice in interruption, clarification, and turn-taking, but praise, successful recognition, and a smooth simulation do not establish real communication ability. Without an inspectable recording or transcript, record only what you observed; do not invent precise pronunciation findings.
 
-A better use is to make AI your guide and question-asker.
+Use [AI Trends and a Learning Roadmap](../part-3/6-ai-trends-and-learning-roadmap.md) for a small comparison when choosing voice, vision, retrieval, or local tools. As capabilities multiply, keep the unpolished first attempt: it gives improvement a truthful starting point.
 
-With Guided Learning, try:
+## 9. Feedback and Retesting
 
-> Help me study this article with Guided Learning. Do not translate everything directly. First ask me what I think the main idea is. Then guide me paragraph by paragraph, explain key expressions, and quiz me on the logic.
+```text
+Restate the task and acceptance criteria. Let me attempt it first.
+Separate feedback into task completion, comprehensibility, accuracy, organisation/fluency, vocabulary/grammar, pronunciation, and transfer.
+Choose only the one to three issues in each category that most affect the result, cite evidence, and mark confidence.
+Give one minimal hint and one parallel task. Do not complete the final answer.
+```
 
-If the text is too hard:
+On day 30 and week 12, retest with the same topic, similar time, and the same restrictions. Compare raw samples, not only AI-edited products. Progress means less prompting, fewer repeated errors, faster real-task completion, and transfer to a new setting.
 
-> Rewrite this article into a clearer version for an upper-intermediate English learner. Keep the key vocabulary, but simplify the sentence structure. Then compare the original and simplified versions.
+After each retest, write at least one result and the next variable into the [90-Day Cycle Map](../../templates/90-day-cycle.md) instead of leaving practice inside the chat window.
 
-To push active understanding:
+For the full change before and after AI and after transfer, use the [Evidence Chain Template](../../templates/evidence-chain.md) to keep the four time points together. The cycle map schedules the work; the evidence chain explains the result.
 
-> I will summarize this article in English. After that, score my summary from 0 to 10 for accuracy, clarity, and vocabulary, and tell me what I missed.
+For interview preparation, AI may simulate a recruiter, technical peer, or customer from a public job description, ask unfamiliar follow-ups after your first version, and classify errors. It must not invent experience, write a signed application or take-home explanation for concealed use, or feed covert answers into a real interview without permission. Use [Job-search English](8-job-search-english.md) and the [Job-search English Evidence Card](../../templates/interview-evidence.md) for the complete workflow.
 
-Reading gets much more valuable when AI helps you:
+## 10. Seven Days, Thirty Days, Twelve Weeks
 
-- identify the main idea quickly
-- track paragraph logic
-- extract high-value expressions
-- restate the content in your own English
+### Seven days: one complete loop
 
----
+- save at least one baseline sample;
+- complete three sessions with the task card;
+- keep raw output, feedback, and one parallel task each time;
+- record one error that most affects communication.
 
-## 5) Writing: Use Canvas to Revise, Not Just Rewrite
+### Thirty days: an error library
 
-If you always give AI your idea in Chinese and let it write the English for you, improvement will be slow.
+- complete at least four similar real tasks;
+- classify vocabulary, listening, syntax, organisation, pronunciation, and transfer errors;
+- compare first attempts and retests rather than treating rewriting as growth;
+- remove tool steps that do not improve the result.
 
-A better workflow is:
+### Twelve weeks: a real English delivery
 
-1. write your first draft yourself
-2. ask AI to mark the biggest issues
-3. revise it yourself
-4. only then compare with a stronger version
+- complete a meeting, presentation, email, document, or cross-cultural collaboration task;
+- keep recording, transcript, feedback, revision, and retest;
+- ask a real audience whether the message was understood and the next step was clear;
+- write the result back into the [English Diagnostic](../../templates/english-diagnostic.md).
 
-Canvas is especially useful here because it lets you keep iterating on the same text.
+## Privacy, Copyright, and Official Sources
 
-Example:
+Do not upload customer, colleague, student, child, medical, identity, or unpublished contract data to an unapproved tool. Public comments and pages can still contain personal data; consider permission, minimum necessary scope, and retention. Use copyrighted material only within your rights and preserve source and licence records.
 
-> Here is my draft. Do not rewrite everything immediately. First identify the most important mistakes and weak sentences. Explain why they are weak. Then ask me to revise them myself. After I revise them, show me a stronger version for comparison.
+- OpenAI: [Study Mode](https://openai.com/zh-Hans-CN/index/chatgpt-study-mode/); [Projects in ChatGPT](https://help.openai.com/en/articles/10169521-projects)
+- Google: [Learning tools in Gemini](https://support.google.com/gemini/answer/16448384); [Quizzes and flashcards](https://support.google.com/gemini/answer/16275879); [Gemini Live](https://support.google.com/gemini/answer/15274899)
+- Anthropic: [What are projects?](https://support.claude.com/en/articles/9517075-what-are-projects)
+- Google: [NotebookLM](https://notebooklm.google/)
+- Perplexity: [Help Center](https://www.perplexity.ai/help-center/)
+- DeepL: [DeepL Write](https://www.deepl.com/write)
 
-For email writing:
+These pages are product entry points to recheck, not a current feature list, ranking, or outcome guarantee. The last concentrated product-entry check was 24 August 2026; verify features, regions, and plans again before use.
 
-> Improve this email for a professional but natural tone. Give me three versions: polite, concise, and more direct. Then explain when each version is appropriate.
+## Closing: After the Tool Leaves
 
-For exam writing:
+AI can quickly produce fluent sentences, patient explanations, and apparently complete answers. English ability does not live in the chat window. It lives in what remains after the tool closes: whether you can still hear the important meaning, explain it in your own words, and continue thinking when another person asks a question.
 
-> Grade this essay using the IELTS Writing Task 2 criteria. Give me band estimates for Task Response, Coherence and Cohesion, Lexical Resource, and Grammatical Range and Accuracy. Then tell me the top 3 changes that would most improve my score.
+Let AI expose a blind spot, generate practice, and offer feedback, then arrange for it to leave. Each departure is a small receding tide. The parts held up by the tool become visible, and so do the parts that belong to you. If the meaning disappears with the window, the practice is not complete.
 
-AI is most useful here when it helps you see what sounds weak or unnatural, not when it simply writes on your behalf.
-
----
-
-## 6) Vocabulary & Grammar: Compare, Produce, Review
-
-Looking up definitions is fine, but “ask once and forget” usually has low payoff.
-
-Better uses include:
-
-1. **compare similar words**
-
-> Explain the difference between effective, efficient, and practical in Chinese and English. Give me common collocations, natural examples, and 5 short exercises.
-
-2. **build grammar lessons from your mistakes**
-
-> Based on my recent mistakes, design a 15-minute micro lesson on the grammar points I keep getting wrong. Keep it focused and practical.
-
-3. **get reviewed later**
-
-> Save the vocabulary and expressions I marked as useful today. Three days later, test me on them with mixed formats: translation, fill-in-the-blank, and sentence creation.
-
-The most useful expressions are usually not the fanciest ones. They are the ones you can reuse often in real speaking and writing.
-
----
-
-## 7) Exams & Work: Use AI for High-Fidelity Simulation
-
-For many learners, “improving English” is really shorthand for:
-
-- preparing for IELTS / TOEFL / CET
-- preparing for interviews
-- speaking in meetings
-- writing emails, updates, and reports
-
-These are exactly the kinds of tasks AI is good at simulating.
-
-IELTS speaking:
-
-> Act as an IELTS speaking examiner. Ask me one question at a time in Part 1, Part 2, and Part 3 order. After each answer, give me short feedback on fluency, grammar, vocabulary, and how to sound more natural.
-
-Job interviews:
-
-> Act as an interviewer for an international tech company. Ask me common behavioral and role-specific questions one by one. Challenge vague answers and ask follow-up questions. After each round, tell me how to make my answer clearer and more convincing.
-
-Meetings and updates:
-
-> Help me prepare a 10-minute English project update. First turn my notes into a speaking outline, then ask me likely follow-up questions from my manager or teammates.
-
-The value is not that AI gives you a beautiful answer. The value is that it creates pressure, exposes weakness, and turns mistakes into the next round of training.
-
----
-
-## 8) My Recommended Gemini Workflow
-
-If you want the shortest version, use this:
-
-1. use a `Gem` to define the long-term course
-2. use `Gemini Live` for daily speaking
-3. use `Guided Learning` for reading and concept-heavy materials
-4. use `quizzes / flashcards / study guides` for review
-5. use `Canvas` for writing and rewriting
-
-The real advantage is not one magical feature. It is the fact that input, output, correction, and review can be connected.
-
----
-
-## 9) Where Other Tools Fit in English Learning
-
-The general tool split now lives in [Learning Anything with AI](../part-3/1-ai-learning.md). Here is the English-learning version.
-
-### ChatGPT
-
-Use Study Mode for grammar, close reading, exam-question breakdowns, and concept checks. Use Projects to keep long-term mistakes, essay samples, interview questions, and personal expression lists.
-
-### Claude
-
-Use it for long reading, writing feedback, and style consistency. If you have many emails, essays, resumes, technical references, or industry materials, project knowledge helps keep context together.
-
-### NotebookLM / Perplexity
-
-Use NotebookLM for source-grounded study from fixed materials such as lecture notes, reports, papers, and book excerpts. Use Perplexity to find current English materials, track topics, and build reading lists.
-
-### DeepL Write
-
-Use it as a final polishing layer for naturalness, tone, and concision. Do not let it replace your own draft if your goal is improvement.
-
-Short version:
-
-> Use Gemini for the training workflow, ChatGPT and Claude for difficult explanations and output feedback, NotebookLM and Perplexity for materials, and DeepL Write for final polish.
-
----
-
-## 10) More Important Than the Tool: Build Practice Loops
-
-Most people do not get great results from AI because they use it like emergency help.
-
-A better approach is to build repeatable loops.
-
-### 10.1 The 4-step input loop
-
-1. read or listen first by yourself
-2. ask AI to explain hard parts and extract useful language
-3. summarize or answer in English
-4. let AI correct and push further
-
-### 10.2 The 3-step writing loop
-
-1. write your first draft
-2. let AI mark the top 3-5 issues
-3. rewrite it yourself before looking at the upgraded version
-
-### 10.3 The minimal speaking loop
-
-1. speak for 2-3 minutes
-2. fix only 1-2 important problems
-3. immediately say it again
-
-This usually works better than receiving 15 pieces of feedback at once.
-
-### 10.4 The vocabulary loop
-
-1. learn new expressions today
-2. use them in your own sentences today
-3. review them 2-3 days later
-4. reuse them in a new situation one week later
-
-### 10.5 Reuse good materials
-
-One good article or video can be reused for reading comprehension, vocabulary extraction, dictation, spoken retelling, and writing imitation.
-
-The difference is often not how many materials you find, but how fully you reuse a good one.
-
----
-
-## 11) A Minimal Weekly Plan
-
-If you want something simple, try this for two weeks:
-
-- Monday: 15 minutes of speaking practice + 10 minutes of corrected repetition
-- Tuesday: close reading of one short article + extract 5-10 expressions
-- Wednesday: one speaking or interview simulation on the same topic
-- Thursday: turn the material into quizzes or flashcards
-- Friday: write a short email, summary, or paragraph and revise it twice
-- Weekend: review the week’s recurring mistakes
-
-It is not glamorous, but it is sustainable.
-
----
-
-## 12) Practical Rules When Using AI
-
-1. **Use it as a coach, not an answer machine**
-2. **Train one small goal at a time**
-3. **Expose your weaknesses instead of hiding them**
-4. **Keep a record of good expressions and recurring mistakes**
-5. **Verify important claims, subtle usage points, and tricky collocations**
-6. **Protect privacy and confidential information**
-
----
-
-## 13) Sources Behind This Update
-
-This chapter focuses on English learning. For the broader source baseline and cross-tool workflow, see [Learning Anything with AI](../part-3/1-ai-learning.md). Key English-learning sources include:
-
-- Gemini Help pages for:
-  - [Use learning tools in Gemini Apps](https://support.google.com/gemini/answer/16448384)
-  - [Create quizzes, flashcards & more in Gemini Apps](https://support.google.com/gemini/answer/16275879)
-  - [Create docs, apps & more with Canvas](https://support.google.com/gemini/answer/16047321)
-  - [Use Gems in Gemini Apps](https://support.google.com/gemini/answer/15146780)
-  - [Talk naturally with Gemini Live](https://support.google.com/gemini/answer/15274899)
-- Google official blog:
-  - [Guided Learning in Gemini: From answers to understanding](https://blog.google/products-and-platforms/products/education/guided-learning/)
-
-The main conclusion is:
-
-> Recommending Gemini for English learning still makes sense, but the right recommendation is not “use the premade learning coach.” It is “use Gemini’s current tools to build your own English-learning system.”
-
----
-
-AI is not a shortcut.
-
-But if you use it well, it can become a low-friction, high-frequency training partner that makes your English learning much more structured and much more sustainable.
-
----
-
-Prev: [Writing](6-writing.md)  
-Next: [Learning Anything with AI](../part-3/1-ai-learning.md)
+The goal is not to make yourself more like a model. It is to form your own voice inside limited vocabulary, real hesitation, and judgments for which you remain responsible. When the tool leaves and you still know what you mean, AI has amplified your ability instead of occupying it.

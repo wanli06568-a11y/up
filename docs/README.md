@@ -1,211 +1,146 @@
+---
+title: 人生进阶指南｜AI 时代终身学习
+description: 《人生进阶指南》帮助普通人在 AI 时代持续学习、完成真实项目、穿越人生低谷并留下成长证据。
+updated: 2026-11-14
+---
+
 # 人生进阶指南
 
-中文 | <a href="#/en/">English</a>
+中文 | [English](en/)
 
-一份从英语学习出发，写给普通人持续成长、重新掌握人生主动权的开放指南。
+**韩先凯 著，绰号：法海（不懂AI）**
 
-它仍保留了[离谱的英语学习指南/英语学习教程](https://github.com/byoungd/up)最初的主线：如何更高效地学习英语，如何建立听说读写的长期训练系统。只是这些年风雨辗转，我逐渐明白：语言并不只是一门技能，它也是一个人推开世界、整理自己、连接机会、重新出发的门。
+**AI 时代终身学习指南。**
 
-所以，这里有英语学习，也有 AI、创业、写作、亲密关系、失败复盘和东山再起的片段。如果你只想学英语，可以从英语学习主线开始；如果你正在寻找一种更持久的自我训练方式，也可以把它当作一份人生进阶路线图。
+人总想等一切准备好了，再开始改变生活。等忙完这一阵，等英语好一些，等有了钱，也等自己终于不再害怕。可日子不会替我们留出一段毫无牵挂的空白。许多改变，只能从尚未理顺的生活中开始。
 
-这份指南不贩卖焦虑，也不承诺捷径。它想交付的是三件事：一套可执行的英语学习系统，一套使用 AI 学习与升级能力的方法，以及一份从低谷重新站起来的真实样本。
+这份持续更新的开放书稿，最初从英语出发，后来走向 AI 学习、真实项目、创业验证、关系、失败与恢复。它不许诺一条笔直向上的路，只提供一间可以反复回来的工作室：带着眼前的问题进来，找到自己的起点，做完一个小动作，把结果带回生活，再决定下一步。
 
-## 你能获得什么
+你不必先证明自己足够聪明、足够自律，才配得到帮助；也不必一次读完整本。AI 可以帮你解释、比较和拆解，判断、边界与责任仍然属于你。这里留下的不是成功学的答案，而是一些被行动、失败、恢复和重新出发反复检验过的记录。
 
-- **一条英语进阶主线**：从认知、单词、听力、阅读，到口语、写作和 AI 场景训练，按能力链路逐步推进。
-- **一套 AI 学习方法**：把 Gemini、ChatGPT、Claude、NotebookLM、Perplexity、DeepL Write 等工具放进目标、材料、讲解、输出、反馈、复习和项目交付的训练流程。
-- **一份人生复盘样本**：把学习、创业、失败、身体垮掉和重新出发放在同一条生命线上，给后来者少走弯路的参照。
-- **一组长期主义资源**：词表、英文材料、AI 资源、旧文归档和个人故事，方便反复回来查阅、复盘和继续行动。
+**你会得到：** 中英双语开放书稿、可下载的 EPUB/PDF、可复制的工作表，以及一条从五分钟起步、按章节复测、九十天回望的实践路径。
 
-## 适合谁阅读
+<div class="book-meta" aria-label="书稿信息">
+  <span>持续更新书稿</span>
+  <a href="./book-downloads">下载中心</a>
+  <a href="./downloads/life-level-up-guide-zh.epub" download>下载中文 EPUB</a>
+  <a href="./downloads/life-level-up-guide-en.epub" download>Download English EPUB</a>
+  <a href="./downloads/life-level-up-guide-zh.pdf" download>下载中文 PDF</a>
+  <a href="./downloads/life-level-up-guide-en.pdf" download>Download English PDF</a>
+  <a href="https://github.com/byoungd/up">源码与勘误</a>
+  <a href="./templates/reader-field-note">读者实践回执</a>
+  <a href="https://github.com/byoungd/up/blob/main/CITATION.cff">引用格式</a>
+  <a href="https://creativecommons.org/licenses/by-nc/4.0/">正文 CC BY-NC 4.0</a>
+</div>
 
-- 想系统提升英语，却一次次被单词、听力、口语或写作拦在门外的人；
-- 想把 AI 真正请进学习现场，而不是只让它偶尔翻译两句话、代写一段文案的人；
-- 想重新整理学习节奏、行动系统和长期成长方法的人；
-- 对创业、写作、低谷恢复和个人复盘感兴趣，愿意从他人的弯路里借一点光的人；
-- 已经吃过“只收藏、不行动”苦头，想把知识真正变成能力、作品和结果的人。
+<div class="quick-start" aria-labelledby="quick-start-title">
+  <div class="quick-start-heading">
+    <span class="quick-start-kicker">从这里开始</span>
+    <h2 id="quick-start-title">先做一个动作，再决定读多远</h2>
+    <p>第一次来，不必把整本书搬进今天。选一个与你此刻最接近的入口，做完一件小事，让结果替你指出下一页。</p>
+  </div>
+  <div class="quick-start-actions">
+    <a class="quick-start-action" href="./threads/part-0/reader-guide"><strong>五分钟：我还不知道从哪里开始</strong><span>按问题找到阅读路线，先写下真实处境和一个不必逞强的下一步。</span></a>
+    <a class="quick-start-action" href="./templates/learning-state"><strong>今天：我想做成一件事</strong><span>写下问题、已有线索、完成标准和边界，然后留下一个看得见的输出。</span></a>
+    <a class="quick-start-action" href="./threads/part-1/open-input"><strong>十四天：我想练习一项英语能力</strong><span>从听、说、读、写中选一条线，留下首版，再在新的条件下回来看它。</span></a>
+  </div>
+  <p class="quick-start-cycle">想走完一个周期？从 <a href="./templates/90-day-cycle">九十日行动总表</a>开始，把一次练习带进真实项目和生活。</p>
+</div>
 
-## 推荐阅读路线
+如果这份指南让你完成了一件真实的事，欢迎 [Star 本仓库](https://github.com/byoungd/up)，让更多学习者找到它；如果发现错误、翻译差异或可复现的实践结果，可以通过 [Issue 模板](https://github.com/byoungd/up/issues/new/choose)告诉我们。
 
-第一次阅读时，不必把它当作一本必须从头翻到尾的书。你可以先问自己：此刻最卡住我的，到底是哪一环？然后沿着下面的路径进入：
+## 按眼前的问题入场
 
-1. **英语学习主线**：如果你不知道怎么开始，先读[认知篇](threads/part-1/1-understanding.md)和[单词篇](threads/part-1/2-vocabulary.md)；如果你输入不够，读[听力篇](threads/part-1/3-listening.md)和[阅读篇](threads/part-1/4-reading.md)；如果你表达不出来，读[口语篇](threads/part-1/5-speaking.md)和[写作篇](threads/part-1/6-writing.md)。
-2. **AI 学习与能力升级主线**：如果你想用 AI 学习职业技能、编程、写作、考试证书或行业研究，先读[使用 AI 学习一切（2026-06 版）](threads/part-3/1-ai-learning.md)，再读[用 AI 学英语（2026-06 版）](threads/part-1/7-ai.md)看它如何落到具体训练场景。
-3. **人生复盘与创业主线**：如果你想了解这份指南背后的经历，读[我的故事](threads/part-2/my-story.md)、[创业篇：从野心到使命](threads/part-2/entrepreneurship.md)和[十年前的博客归档](threads/archive/README.md)，看看一份学习笔记如何慢慢长成一段人生复盘。
+你不需要从第一页开始，也不需要同时打开所有主题。先辨认眼前的那一件事，进入一条路，走完一轮，再决定是否继续。
 
-如果只想快速开始，建议今天就做三件事：读完[认知篇](threads/part-1/1-understanding.md)，选定一个具体学习目标，再用[使用 AI 学习一切（2026-06 版）](threads/part-3/1-ai-learning.md)给自己设计一周训练计划。
+| 你现在面对的情况 | 先打开 | 这一轮可以留下什么 |
+| --- | --- | --- |
+| 我只想重新开始，却不知道从哪一页起步 | [阅读指南](threads/part-0/reader-guide.md) · [序章](threads/part-0/prologue.md) | 一条适合自己的阅读路线 |
+| 我想知道英语听说读写的真实起点 | [英语能力诊断](templates/english-diagnostic.md) · [第一部导语](threads/part-1/open-input.md) | 一份首版样本和一个最值得先处理的障碍 |
+| 我想把 AI 用进工作，又不想把判断交出去 | [AI 学习](threads/part-3/1-ai-learning.md) · [AI 评测](templates/ai-evaluation.md) | 一次可复查的小实验和清楚的完成标准 |
+| 我想把问题做成作品、项目，或验证一个生意 | [从问题到首批用户](threads/practice/customer-discovery.md) · [创业实验卡](templates/startup-experiment.md) | 一个真实输出、用户反馈，或一条诚实的失败记录 |
+| 我正在恢复生活节奏，今天的容量很小 | [生活进阶工作表](templates/life-practice-toolkit.md) · [生活系统](threads/part-4/daily-system.md) | 一个今天能够照顾的边界和下一项最小任务 |
+| 我想从头读完，看看这些方法如何彼此相连 | [阅读指南](threads/part-0/reader-guide.md) · [工具箱总览](templates/toolkit.md) | 一份读者承诺，以及下一次回来的时间 |
 
-## 如何使用本指南
+所有主题都可以沿着一条工作线前进：**看清问题，保存起点，完成小任务，留下结果，隔一段时间回来，再决定什么值得带走。** AI 能够加快提问和反馈，却不能替你确认目标、来源、隐私、验收和最后的责任。
 
-- **第一次读**：先按上面的三条主线选一条，不要急着打开所有链接。
-- **按目标查**：遇到具体问题时，把对应章节当成工具箱，例如单词、听力、AI 学习、写作或创业复盘。
-- **按周执行**：每周只选一个小目标，读一章，做一个练习，留下一个可检查的输出。
-- **定期复盘**：隔一段时间回来重读，你会发现同一段文字在不同阶段会给出不同答案。
+## 书稿怎样展开
 
-## 人生进阶路线图
+完整阅读可以从[阅读指南：把书放回生活](threads/part-0/reader-guide.md)进入，再从[序章：先不要急着改变人生](threads/part-0/prologue.md)开始。你会看到同一个问题怎样从语言训练走进工作、关系、身体、选择和自我关系，最后变成能够被时间检验的节奏。
 
-这份指南的底层路径很简单：先把输入打开，再把能力练出来，最后把能力放进真实生活里检验。
+| 部分 | 这一部要追问什么 | 代表入口 |
+| --- | --- | --- |
+| 序章与阅读指南 | 我从哪里进入，又为什么愿意重新开始？ | [阅读指南](threads/part-0/reader-guide.md) · [序章](threads/part-0/prologue.md) |
+| 第一部：打开输入 | 怎样用英语进入更大的知识与协作现场？ | [本部导语](threads/part-1/open-input.md) · [CEFR 自测](threads/part-1/0-cefr.md) |
+| 第二部：把自己放回生活 | 怎样看待失败、关系、事业与恢复，不把经历写成命运？ | [本部导语](threads/part-2/return-to-life.md) · [我的故事](threads/part-2/my-story.md) |
+| 第三部：借工具放大能力 | 怎样使用 AI，又不把注意力和判断力一起外包？ | [本部导语](threads/part-3/amplify-ability.md) · [AI 学习](threads/part-3/1-ai-learning.md) |
+| 第四部：实践与恢复 | 怎样让学习回到身体、家庭和日常，并保护学习者的主体性？ | [本部导语](threads/part-4/practice-and-recovery.md) · [第一周实践](threads/part-4/week-1.md) |
+| 第五部：行动与长期改变 | 怎样把一轮练习带进真实项目，并让九十天以后仍有回声？ | [本部导语](threads/part-5/long-term-action.md) · [九十天行动篇](threads/part-5/90-day-plan.md) |
+| 第六部与后记 | 怎样了解、善待、提升自己，并与自己长期相处？ | [与自己做终身朋友](threads/part-6/1-understanding-yourself.md) · [后记](threads/part-6/afterword.md) |
 
-1. **打开输入**：用英语连接更大的信息世界，用阅读和听力扩大认知边界。
-2. **训练输出**：用口语、写作、复述、项目和 AI 反馈，把“看懂了”变成“做得出、说得清、写得明白”。
-3. **形成作品**：把学习结果落成文章、项目、报告、产品、课程或一次真实沟通，而不是停留在收藏夹里。
-4. **复盘人生**：把失败、关系、身体、事业和选择放回同一条时间线，提炼下一阶段的判断。
-5. **服务现实**：把能力用到工作、创业、家庭、乡土、产业和具体的人身上，让进阶不只发生在脑子里。
+术语不清时，可以查[术语与方法索引](reference/glossary.md)；不知道该用哪张工作纸时，可以先看[工具箱总览](templates/toolkit.md)。目录和侧栏保留完整章节顺序，这一页只负责告诉你怎样走进书里。
 
-## 英语学习主线
+## 把一页书带回今天
 
-### 起点：先把方向校准
+终身学习不是同时打开十门课程，而是让一页文字在今天变成一个小小的现实：
 
-[![understanding](assets/understanding@2x.svg)](threads/part-1/1-understanding.md)
+1. **写下眼前的问题。** 在[学习状态](templates/learning-state.md)里记下你已经知道什么、还缺什么、什么算完成；若问题关乎生活容量、关系或恢复，也可以使用[生活进阶工作表](templates/life-practice-toolkit.md)。
+2. **完成一个能被看见的动作。** 让 AI 帮你拆解，但亲自核对来源、做出选择，留下笔记、代码、录音、邮件、反馈或其他真实输出，而不只保存聊天记录。
+3. **回来看看它是否真的带走了什么。** 按章节的训练周期做复测，再用[每周复盘](templates/weekly-review.md)或[九十日行动总表](templates/90-day-cycle.md)判断下一步是否值得继续。
 
-- [认知篇](threads/part-1/1-understanding.md)：先问清为什么学、学到哪里、用在何处，避免用焦虑和透支伪装成努力。
+需要更具体的实践时，可以从[实践路线图](practice.md)进入：创业想法看[从问题到首批用户](threads/practice/customer-discovery.md)，行动中断看[自律与坚持实操](threads/practice/discipline-and-consistency.md)，AI 交付不稳看[AI 工作流](threads/practice/ai-workflows.md)和[AI 评测与可靠性](threads/practice/ai-evaluation.md)。
 
-[![vocabulary](assets/vocabulary@2x.svg)](threads/part-1/2-vocabulary.md)
+当学习进入项目，[AI 学习、项目开发与资源层创业](threads/part-3/2-ai-development-and-resource-layer.md)会把协作推进到需求、原型、编码、测试、文档和交付。在中国词元云与 `token.love` 的实践中，这条路还会遇到模型接入、路由、计量、权限、部署、运维和企业支持；客户为什么可能付费、服务怎样验收、成本能否覆盖，都必须回到真实结果，而不是写成已经实现的利润。2022 年的软件失败也让我看见，缺失数据集、老旧架构和预设结果可以暂时藏在 UI 与“AI”叙事后面，却经不起用户、成本和故障的检验。
 
-- [单词篇](threads/part-1/2-vocabulary.md)：词汇是语言的砖石，也是理解世界的钥匙；这一章处理词汇量、记忆方法、复习节奏和发音意识这些基础问题。
+## 写给仍在路上的人
 
-### 输入：让英语进入日常
+### 写给年轻人
 
-[![listening](assets/listening@2x.svg)](threads/part-1/3-listening.md)
+你不必在二十几岁就找到一个永远正确的方向。很多方向不是想清楚之后才出现，而是在做过几个小项目、见过几种工作、承担过几次结果之后，才慢慢从雾里显形。比选中完美赛道更可靠的，是保留学习、交付和转向的能力。
 
-- [听力篇](threads/part-1/3-listening.md)：让声音先抵达身体，再抵达理解；这一章区分精听与泛听，帮助你选择材料，逐步适应真实的语速和内容。
+如果职业焦虑让你不停收藏课程、证书和成功故事，不妨换成一个两周可以结束的小项目：解决身边人的一个问题，做出一个能运行的工具，写完一篇有来源的文章，或为真实用户改进一次流程。项目可以失败，但它会告诉你喜欢什么、缺少什么、能否交付，以及别人是否愿意再次使用。
 
-[![reading](assets/reading@2x.svg)](threads/part-1/4-reading.md)
+### 写给正在低谷中的人
 
-- [阅读篇](threads/part-1/4-reading.md)：阅读像一条暗河，悄悄滋养词汇、语感和表达；这一章通过原版书、英文文档和英文社区建立稳定输入。
+失业、创业失败、关系结束、健康受损和长时间的迷茫，都会真实地削弱精力。低谷不是一场必须立刻赢下来的考试。今天能做的，也许只是睡一晚相对完整的觉、吃一顿饭、走到户外，或向一个可信的人说“我现在需要帮助”。这些事情本身就有意义，不必先把它们包装成一份成长报告。
 
-### 输出：把理解变成表达
+暂停不是放弃，求助不是软弱，重新校准也不是退步。等力量回来，再决定要不要增加重量。这里的个人故事不是医疗或心理治疗建议；如果低落、失眠、绝望或危险念头持续存在，请联系可信亲友，并寻求当地具备资质的医疗或心理专业支持。先保证安全，再谈成长。
 
-[![speaking](assets/speaking@2x.svg)](threads/part-1/5-speaking.md)
+## 作者与现实实践
 
-- [口语篇](threads/part-1/5-speaking.md)：语言终究要走出口腔，抵达另一个人；这一章从音标、朗读、复述和真实交流开始，逐步减少“想说但说不出”的卡顿。
+我叫韩先凯，也叫法海（不懂AI），现任中国词元云计算有限公司董事长。这个项目在 2017 年从《离谱的英语学习指南》开始，后来进入学习、开发、企业服务、创业验证和真实生活。书里的方法会被放进这些场景里检验，但身份、商业关系、能力与收入结果都写在明处，只接受作品、用户、成本和时间留下的证据。
 
-[![writing](assets/writing@2x.svg)](threads/part-1/6-writing.md)
+方法只有进入生活，才知道自己是否站得住。关系会结束，也可能重新开始；工作会改变，学习会在与真实的人相遇时获得新的意义。
 
-- [写作篇](threads/part-1/6-writing.md)：写作是把混沌念头安放到纸面上的过程；这一章用阅读、练习、交流和工具改进日常写作与表达结构。
+<div class="latest-updates">
+  <figure class="latest-update">
+    <img src="./assets/latest/fourth-marriage.webp" alt="韩先凯与伴侣在第四次婚礼上的合影" width="1320" height="1642" loading="lazy" decoding="async" fetchpriority="low" />
+    <figcaption><strong>四婚婚礼合影</strong>这张照片记录了韩先凯的第四次婚礼。爱情与婚姻的感悟：爱不只是一时的心动，也是在日常里持续选择、尊重、承担与共同成长。</figcaption>
+  </figure>
+  <figure class="latest-update">
+    <img class="latest-update-visit-photo" src="./assets/latest/current-qwen.jpg" alt="韩先凯在阿里巴巴参观千问大模型展示" width="1706" height="1279" loading="lazy" decoding="async" fetchpriority="low" />
+    <figcaption><strong>走进阿里巴巴</strong>我到阿里巴巴参观考察，在现场了解千问大模型的展示。</figcaption>
+  </figure>
+</div>
 
-### 英语场景：把 AI 变成听说读写训练伙伴
+参与的产品、公司参访与现实项目统一放在[作者项目与现实实践](projects.md)，页面会标明作者关联、用途、更新时间和非赞助关系。第三方入口集中放在[资源目录](resources.md)，那里说明它们只是可选资源，不等于本书或作者对其安全、质量与合规性的背书。也欢迎关注我的 [X](https://x.com/ourleap)，获取 AI 实践、英语学习和个人成长的最新分享。
 
-[![ai](assets/ai@2x.svg)](threads/part-1/7-ai.md)
+### 在抖音继续看
 
-- [用 AI 学英语（2026-06 版）](threads/part-1/7-ai.md)：把通用 AI 学习回路落到英语听说读写里：用 `Live` 练口语，用学习工具做 quiz / flashcards，用 Canvas 改写作，用长期项目沉淀错误和表达。
+扫码关注抖音账号 **法海韩先凯（抖音号：72581209403）**，获取英语训练、AI 协作、真实项目和人生进阶的短内容。二维码只提供公开账号关注入口；本站不接入广告、分析脚本或追踪器，也不会因为关注二维码收集站点访问数据。无法扫码时，可在抖音搜索“法海韩先凯”或抖音号 `72581209403`。
 
-## AI 学习与能力升级
+<figure class="author-social-card">
+  <img src="./assets/creator-douyin.jpg" alt="抖音账号二维码：扫码关注法海韩先凯，获取英语、AI 与成长实践分享" width="360" height="538" loading="lazy" decoding="async" />
+  <figcaption>作者提供的公开账号二维码；图片元数据已清理。</figcaption>
+</figure>
 
-[![ai](assets/ai@2x.svg)](threads/part-3/1-ai-learning.md)
+## 阅读、下载与共同修订
 
-- [使用 AI 学习一切（2026-06 版）](threads/part-3/1-ai-learning.md)：把 AI 当成“目标、材料、讲解、输出、反馈、复习、项目”的学习系统，覆盖职业技能、编程、写作、考试证书、行业研究和工作产出。
+- 本项目是开放内容项目，不是 OSI 意义上的开源软件：正文与作者内容采用 **CC BY-NC 4.0**，站点配置、检查脚本和构建代码采用 **MIT**。详见[许可证说明](https://github.com/byoungd/up/blob/main/LICENSE.md)。
+- 引用、图片和第三方素材的来源及授权状态记录在[第三方素材与引用](https://github.com/byoungd/up/blob/main/ATTRIBUTIONS.md)。
+- 贡献前请阅读[贡献指南](https://github.com/byoungd/up/blob/main/CONTRIBUTING.md)、[中文贡献指南](https://github.com/byoungd/up/blob/main/CONTRIBUTING.zh-CN.md)和[行为准则](https://github.com/byoungd/up/blob/main/CODE_OF_CONDUCT.md)。
+- 产品与服务条目的核验日期以各自页面和[第三方素材与引用](https://github.com/byoungd/up/blob/main/ATTRIBUTIONS.md)中的记录为准；产品能力、可用性与合规范围仍以官方页面、正式协议和实际验收为准。
 
-## 扩展内容
+在线阅读：[GitHub Pages](https://byoungd.github.io/up/) · [GitHub 仓库](https://github.com/byoungd/up)。历史文章已整理进[创业篇](threads/part-2/entrepreneurship.md)与[我的故事](threads/part-2/my-story.md)，不再保留当前无法稳定访问的外部直链。
 
-[![word-list](assets/word-list@2x.svg)](threads/word-list/Common.md)
-
-- [单词表（Word Lists）](threads/word-list/Common.md)：把散落在不同场景里的词语收束成册，覆盖通用英语、编程语言、Prompt 和 Vibe Coding 等方向。
-
-[![Others@2x.png](assets/Others@2x.svg)](threads/part-2/x-misc.md)
-
-- [扯淡篇](threads/part-2/x-misc.md)：一些关于学习、培训、设备选择和个人经历的杂谈，轻一点，也真一点。
-- [Week 1](threads/part-4/week-1.md)：一组关于睡眠、生活方式和压力处理的英文练习内容，把语言练习放回真实生活。
-
-## AI 学习与实践
-
-AI 是这个时代递到普通人手里的一把新工具。它可以只是玩具，也可以成为学习、表达、生产和产业升级的杠杆；关键在于，我们是否真的把它用到真实问题里。
-
-我更关心的不是“今天哪个模型最火”，而是一个普通人如何借助 AI 提高学习效率、表达质量、工作产出和商业判断。工具会更替，能力会沉淀；真正值得投资的是后者。
-
-下面这几件，是我沿着这个判断自己在做的事——既是工具，也是我对“AI 如何真正落到普通人手里”的回答。
-
-### 中国词元云：[token.love](https://token.love)
-
-[token.love](https://token.love)（中国词元云）面向开发者、团队和组织，提供统一 AI 智能网关：用一套 OpenAI 兼容 API 接入国产与全球大模型，把模型、密钥、配额、计费、路由和可观测性收进同一个控制台。它支持按成本、延迟与可用性智能选路，单点故障毫秒级自动切换，并让每次调用、用量和花费都有据可查。
-
-对个人开发者，它降低接入多模型的门槛；对企业与央国企、党政客户，它支持私有化、离线部署和数据不出域，让 AI 能力进入真实业务，而不是停在演示页面。
-
-![token.love 产品页面展示](assets/token-love-domain.jpg)
-
-### AI资源库：[ku0.com - 库](https://ku0.com)
-
-如果你在实践本指南的 AI 学习方案时，需要更稳定、更可信的 AI 账户与接口资源，可以了解：[ku0.com](https://ku0.com)。好的工具不必喧哗，它只需要在你真正要用的时候，可靠地站在那里。
-
-一个现实建议：不要把时间浪费在反复找工具、换工具、比较工具上。先建立训练流程，再选择能稳定支撑流程的资源。
-
-### 最新动态：AI 赋能实体经济
-
-2026 年 6 月 16 日，我以中国词元云计算有限公司董事长的身份，受杭州阿里巴巴邀请，前往阿里云杭州总部参观考察。
-
-![参观阿里云杭州总部](assets/aliyun-hangzhou-2026-06-16-1.jpg)
-
-这次参访让我更加坚定：AI 不应该只停留在概念里，也不应该只是少数人手里的玩具。真正有价值的 AI，要走进产业，走进土地，走进千家万户的真实生活。
-
-![了解千问大模型](assets/aliyun-hangzhou-2026-06-16-2.jpg)
-
-接下来，我希望继续探索 AI 赋能农、林、牧、渔等实体产业的具体路径，支持实体经济发展。尤其是在农村合作社方向，我也计划开办 AI 免费培训，让更多普通老百姓能真正理解 AI、使用 AI，用技术提高生产效率、拓宽经营思路。技术若不能照见田野、车间和寻常日子，便还没有完成它应有的抵达。
-
-更多近况可见：[我的故事](threads/part-2/my-story.md)。
-
-## 为什么值得收藏
-
-这不是一篇读完就翻篇的文章，而是一份会随经历、工具和时代继续生长的笔记。它会更新，也值得你隔一段时间回来重读——上一次卡住你的地方，这一次也许就通了。
-
-如果它对你有用，欢迎收藏、转发，或把其中某一章发给正在卡住的朋友。好的内容不该只停在浏览器标签页里，它应该走进一个人的行动。
-
-## 人生进阶与个人复盘
-
-这份指南最初并不是一个宏大的计划，而是来自一个很具体、也很温柔的问题。
-
-2017 年 7 月初，正在备考托福的 `W.` 问我：**如何高效学习英语？**
-
-我把自己的学习经验整理成短文，后来逐步扩展成这份指南。英语仍然是起点，但真正长期的问题早已不只是“怎么学英语”，还包括如何认识自己、训练自己、修复自己，并把能力用在真实生活里。
-
-我的 QQ 是 `397865076`（qid：`tokencloud`），也欢迎来我的 [QQ 空间](https://user.qzone.qq.com/397865076) 逛逛。
-
-谨以此献给我曾经的挚爱 `W.`。有些故事曾经适合放在开头，如今更适合退到文字深处，等愿意了解背景的人慢慢读到那里。
-
-> 我们每个人都生活在各自的过去中，人们会用一分钟的时间去认识一个人，用一小时的时间去喜欢一个人，再用一天的时间去爱上一个人，到最后呢，却要用一辈子的时间去忘记一个人。
-
-相关内容：
-
-- [我的故事](threads/part-2/my-story.md)：创业失败、身体垮掉、沉寂数年后重新出发的个人复盘。
-- [创业篇：从野心到使命](threads/part-2/entrepreneurship.md)：从第一次把自己推向市场，到重新理解创业、现金流、责任和使命。
-- [十年前的博客归档](threads/archive/README.md)：更早时期的写作、观察和生活记录，像旧抽屉里翻出的信，也像来路上的坐标。
-- [离谱的前女友们](https://github.com/byoungd/how-to-find-love)：关于爱情经历的番外篇。
-
-## 英语水平等级
-
-![CEFR@2x.png](assets/CEFR@2x.png)
-
-> 本图主要参考 [Global scale - Table 1 (CEFR 3.3): Common Reference levels](https://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale)
-
-## 特色
-
-![特色介绍](assets/feature.svg)
-
-## 在线阅读
-
-- 知乎 [离谱的英语学习指南](https://zhuanlan.zhihu.com/p/444211376)
-- GitHub Pages [人生进阶指南](https://byoungd.github.io/up/#/)
-- GitHub 仓库 [byoungd/up](https://github.com/byoungd/up)
-
-## 转载声明
-
-转载本指南时，请注明作者与 GitHub 链接，谢谢！
-
-## 协议/License
-
-本作品采用知识共享署名-非商业性使用 4.0 国际许可协议进行许可。
-
-<a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a> <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/"></a>
-
-## 特别声明
-
-不少热心的小伙伴来信说，这份指南写得用心，对他们的英语学习和人生进阶颇有助益，希望能有所赞赏。
-
-**命运已经给了离谱诸多额外的馈赠，便不再需要其他奖赏**。
-
-在此统一声明：**本指南不接受、也不需要金钱上的赞助**。
-
-请把那些原本想用来赞赏的零钱，拿去给自己买几本好书。书页翻动时，风会自己进来。
-
-    学习，难道不是人生最棒的乐趣么？
-
-> Cheers and Enjoy :)
+如果今天只做一件事，就创建一份[学习状态](templates/learning-state.md)，写下正在面对的问题、手边已有的线索和下一项最小任务。不要等道路变得宽阔才出发；很多路，正是在脚落下之后才显现。
